@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Product Search - ChatGPT-like Interface</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f4f4f9;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+    .chat-container {
+      width: 1000px;  /* Increased card size */
+      background: #fff;
+      border-radius: 10px;
+      box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+      overflow: hidden;
+      display: flex;
+      flex-direction: column;
+    }
+    .chat-header {
+      background: #007bff;
+      color: white;
+      padding: 12px;
+      text-align: center;
+      font-size: 20px;
+    }
+    .chat-messages {
+      flex: 1;
+      padding: 15px;
+      overflow-y: auto;
+      background: #f9f9f9;
+      display: flex;
+      flex-direction: column; /* Display messages in ascending order */
+    }
+    .message {
+      margin-bottom: 10px;
+      padding: 10px 15px;
+      border-radius: 10px;
+      max-width: 80%;
+      word-wrap: break-word; /* Ensure long URLs break into the next line */
+    }
+    .user-message {
+      background: #007bff;
+      color: white;
+      align-self: flex-end;
+    }
+    .bot-message {
+      background: #e1e1e1;
+      color: black;
+      align-self: flex-start;
+    }
+    .chat-input {
+      display: flex;
+      border-top: 1px solid #ddd;
+      padding: 10px;
+    }
+    .chat-input input {
+      flex: 1;
+      padding: 10px;
+      border: none;
+      outline: none;
+      border-radius: 5px;
+    }
+    .chat-input button {
+      padding: 10px 20px;
+      background: #007bff;
+      color: white;
+      border: none;
+      cursor: pointer;
+      border-radius: 5px;
+    }
+    a {
+      color: #007bff;
+      text-decoration: none;
+      word-wrap: break-word;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    .product-image {
+      max-width: 100px;
+      max-height: 100px;
+      object-fit: cover;
+      margin-top: 10px;
+    }
+  </style>
+</head>
+<body>
+  <div class="chat-container">
+    <div class="chat-header">
+      Product Search Assistant
+    </div>
+    <div class="chat-messages" id="chat-messages">
+      <!-- Chat messages will appear here -->
+    </div>
+    <div class="chat-input">
+      <input type="text" id="user-input" placeholder="Type a product name..." onkeydown="checkEnter(event)" />
+      <button onclick="sendMessage()">Send</button>
+    </div>
+  </div>
+
+  <script>
+    function checkEnter(event) {
+      // Check if the Enter key (keyCode 13) is pressed
+      if (event.key === 'Enter') {
+        sendMessage();
+      }
+    }
+
+    function sendMessage() {
+      const userInput = document.getElementById('user-input').value;
+      if (!userInput.trim()) return;
+
+      // Add user message to chat
+      addMessage('user', userInput);
+
+      // Clear input
+      document.getElementById('user-input').value = '';
+
+      // Send request to backend
+      fetch('/search', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({ product: userInput }),
+      })
+        .then((response) => response.json())
+        .then((data) => {
+          // Add bot response with product name, image, price, and clickable URLs
+          addMessage('bot', `
+            <strong>Product Name: </strong>${data.product_name}<br>
+            <img src="${data.product_image}" alt="Product Image" class="product-image"><br>
+            Amazon: ${data.amazon_price} (Link: <a href="${data.amazon_url}" target="_blank">${data.amazon_url}</a>)<br>
+            Flipkart: ${data.flipkart_price} (Link: <a href="${data.flipkart_url}" target="_blank">${data.flipkart_url}</a>)
+          `);
+        })
+        .catch((error) => {
+          addMessage('bot', 'Error fetching product details. Please try again.');
+        });
+    }
+
+    function addMessage(sender, message) {
+      const chatMessages = document.getElementById('chat-messages');
+      const messageElement = document.createElement('div');
+      messageElement.classList.add('message', `${sender}-message`);
+      messageElement.innerHTML = message; // Using innerHTML to support HTML content like images and links
+      chatMessages.appendChild(messageElement);
+      chatMessages.scrollTop = chatMessages.scrollHeight; // Auto-scroll
+    }
+  </script>
+</body>
+</html>

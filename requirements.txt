@@ -1,0 +1,8 @@
+# Install Flask - Web framework
+Flask==2.3.3  # https://pypi.org/project/Flask/
+
+# Install Requests - For making HTTP requests
+requests==2.31.0  # https://pypi.org/project/requests/
+
+# Install BeautifulSoup4 - For HTML parsing and scraping
+beautifulsoup4==4.12.3  # https://pypi.org/project/beautifulsoup4/
