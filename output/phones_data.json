@@ -1,0 +1,5029 @@
+[
+  {
+    "device_type": "phone",
+    "brand": "Google",
+    "model_name": "Google Pixel 10 Pro Fold",
+    "status": "available",
+    "release_date": "2025, October 09",
+    "release_date_iso": "2025-10-09",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-10-pro-fold-.jpg",
+    "performance": {
+      "chipset": "Google Tensor G5 (3 nm)",
+      "cpu": "Octa-core (1x3.78 GHz Cortex-X4 & 5x3.05 GHz Cortex-A725 & 2x2.25 GHz Cortex-A520)",
+      "gpu": "PowerVR DXT-48-1536",
+      "process_node_nm": 3.0,
+      "chipset_tier": "flagship",
+      "gpu_tier": "flagship"
+    },
+    "memory": {
+      "storage_type": "UFS 4.0",
+      "expandable": false
+    },
+    "variants": [
+      {
+        "storage_gb": 256,
+        "ram_gb": 16,
+        "price_inr": 146999,
+        "price_last_checked_at": "2026-03-11T08:50:12.051874+00:00",
+        "price_source": "Amazon",
+        "price_url": "https://www.amazon.in/dp/B0G4MZXHJX"
+      },
+      {
+        "storage_gb": 512,
+        "ram_gb": 16,
+        "price_inr": null,
+        "price_last_checked_at": null,
+        "price_source": null,
+        "price_url": null
+      },
+      {
+        "storage_gb": 1024,
+        "ram_gb": 16,
+        "price_inr": null,
+        "price_last_checked_at": null,
+        "price_source": null,
+        "price_url": null
+      }
+    ],
+    "display": {
+      "size_inches": 8.0,
+      "resolution_width": 2076,
+      "resolution_height": 2152,
+      "refresh_rate_hz": 120,
+      "panel_type": "Foldable LTPO OLED",
+      "typical_nits": null,
+      "hbm_nits": 1800,
+      "peak_nits": 3000,
+      "supports_hdr10": true,
+      "supports_hdr10_plus": true,
+      "supports_dolby_vision": false,
+      "protection": ""
+    },
+    "battery": {
+      "capacity_mah": 5015,
+      "active_use_hours": 14.15,
+      "endurance_hours": null,
+      "charging": {
+        "type": null,
+        "advertised": "50% in 30 min",
+        "estimated_watt": 30
+      },
+      "wireless_charging_watt": 15,
+      "reverse_charging_watt": null,
+      "reverse_charging_supported": false
+    },
+    "physical": {
+      "weight_g": 258,
+      "thickness_mm": 5.2,
+      "materials": {
+        "front": "Gorilla Glass Victus 2",
+        "back": "Gorilla Glass Victus 2",
+        "frame": "aluminum"
+      },
+      "sim": {
+        "nano": true,
+        "esim": true,
+        "max_active": 2
+      },
+      "ip_rating": "IP68",
+      "has_3_5mm_jack": false,
+      "loudspeaker_type": "stereo",
+      "fingerprint_location": "side-mounted",
+      "is_ultrasonic_fingerprint": false
+    },
+    "connectivity": {
+      "wifi": {
+        "standard": "802.11 a/b/g/n/ac/6e/7",
+        "generation": "WiFi 7",
+        "features": [
+          "tri-band"
+        ]
+      },
+      "bluetooth": {
+        "version": "6.0",
+        "features": [
+          "A2DP",
+          "LE",
+          "aptX",
+          "aptX HD"
+        ]
+      },
+      "has_nfc": true,
+      "has_ir": false,
+      "has_5g": true
+    },
+    "camera": {
+      "rear": {
+        "lenses": [
+          {
+            "type": "wide",
+            "mp": 48,
+            "sensor_size": "1/2.0",
+            "aperture": "f/1.7",
+            "focal_length_mm": 25,
+            "pixel_size_um": 0.8
+          },
+          {
+            "type": "telephoto",
+            "mp": 10.8,
+            "sensor_size": "1/3.2",
+            "aperture": "f/3.1",
+            "focal_length_mm": 112,
+            "pixel_size_um": null
+          },
+          {
+            "type": "ultrawide",
+            "mp": 10.5,
+            "sensor_size": "1/3.4",
+            "aperture": "f/2.2",
+            "focal_length_mm": null,
+            "pixel_size_um": null
+          }
+        ],
+        "max_video_resolution": "4K",
+        "max_fps_4k": 60,
+        "has_hdr_video": true
+      },
+      "selfie": {
+        "mp": 10,
+        "aperture": "f/2.2",
+        "focal_length_mm": 23,
+        "lens_type": "wide",
+        "has_pdaf": true,
+        "has_3d_sensor": false,
+        "max_video_resolution": "4K",
+        "max_fps_4k": 60,
+        "has_hdr_video": true
+      },
+      "ois": true,
+      "pdaf": true
+    },
+    "software": {
+      "launch_android_version": "Android 16",
+      "major_android_updates_years": 7,
+      "reliable_upto": "2031, October 09"
+    },
+    "filter": {
+      "release_year": 2025,
+      "release_month": 10,
+      "release_ts": 1759968000,
+      "price_min_inr": 146999,
+      "price_max_inr": 146999,
+      "price_available_variant_count": 1,
+      "has_price_data": true,
+      "ram_options_gb": [
+        16
+      ],
+      "storage_options_gb": [
+        256,
+        512,
+        1024
+      ],
+      "sim": {
+        "has_esim": true,
+        "has_dual_sim": true,
+        "sim_count_max": 2
+      },
+      "display_ppi": 373.8,
+      "is_ltpo": true,
+      "is_foldable": true,
+      "water_resistance": {
+        "level": 68,
+        "derived": true
+      },
+      "water_resistance_level": 68
+    },
+    "source": {
+      "spec_url": "https://www.gsmarena.com/google_pixel_10_pro_fold-14014.php",
+      "price_url": "https://www.gsmarena.com/google_pixel_10_pro_fold-price-14014.php"
+    },
+    "scores": {
+      "gaming": 100,
+      "camera": 78,
+      "display": 82,
+      "battery": 42,
+      "scoring_version": 5
+    },
+    "tags": {
+      "can_game": true,
+      "good_camera": true,
+      "good_display": true,
+      "good_battery": false
+    },
+    "parse_quality": {
+      "missing_fields": [],
+      "missing_fields_count": 0
+    },
+    "schema_version": 2,
+    "scraped_at": "2026-03-11T08:50:12.051874+00:00",
+    "spec_last_verified_at": "2026-03-11T08:50:12.051874+00:00",
+    "spec_hash": "e3512f0819a3bcbfca833561f6013bab",
+    "price_hash": "9febc86bf719c5a0a70350038d0ce7ee"
+  },
+  {
+    "device_type": "phone",
+    "brand": "Google",
+    "model_name": "Google Pixel 9 Pro",
+    "status": "available",
+    "release_date": "2024, September 09",
+    "release_date_iso": "2024-09-09",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-9-pro.jpg",
+    "performance": {
+      "chipset": "Google Tensor G4 (4 nm)",
+      "cpu": "Octa-core (1x3.1 GHz Cortex-X4 & 3x2.6 GHz Cortex-A720 & 4x1.92 GHz Cortex-A520)",
+      "gpu": "Mali-G715 MC7",
+      "process_node_nm": 4.0,
+      "benchmarks": {
+        "antutu": 838931,
+        "geekbench": 3850,
+        "gfxbench": null
+      },
+      "chipset_tier": "flagship",
+      "gpu_tier": "flagship"
+    },
+    "memory": {
+      "storage_type": "UFS 3.1",
+      "expandable": false
+    },
+    "variants": [
+      {
+        "storage_gb": 128,
+        "ram_gb": 16,
+        "price_inr": null,
+        "price_last_checked_at": null,
+        "price_source": null,
+        "price_url": null
+      },
+      {
+        "storage_gb": 256,
+        "ram_gb": 16,
+        "price_inr": 84499,
+        "price_last_checked_at": "2026-03-11T08:50:55.794150+00:00",
+        "price_source": "Amazon",
+        "price_url": "https://www.amazon.in/dp/B0FLQQF6YP"
+      },
+      {
+        "storage_gb": 512,
+        "ram_gb": 16,
+        "price_inr": null,
+        "price_last_checked_at": null,
+        "price_source": null,
+        "price_url": null
+      },
+      {
+        "storage_gb": 1024,
+        "ram_gb": 16,
+        "price_inr": null,
+        "price_last_checked_at": null,
+        "price_source": null,
+        "price_url": null
+      }
+    ],
+    "display": {
+      "size_inches": 6.3,
+      "resolution_width": 1280,
+      "resolution_height": 2856,
+      "refresh_rate_hz": 120,
+      "panel_type": "LTPO OLED",
+      "typical_nits": null,
+      "hbm_nits": 2000,
+      "peak_nits": 3000,
+      "supports_hdr10": true,
+      "supports_hdr10_plus": true,
+      "supports_dolby_vision": false,
+      "protection": "Corning Gorilla Glass Victus 2"
+    },
+    "battery": {
+      "capacity_mah": 4700,
+      "active_use_hours": 13.18,
+      "endurance_hours": null,
+      "charging": {
+        "type": "PD3.0",
+        "advertised": "55% in 30 min",
+        "estimated_watt": 27
+      },
+      "wireless_charging_watt": 21,
+      "reverse_charging_watt": null,
+      "reverse_charging_supported": true
+    },
+    "physical": {
+      "weight_g": 199,
+      "thickness_mm": 8.5,
+      "materials": {
+        "front": "Gorilla Glass Victus 2",
+        "back": "Gorilla Glass Victus 2",
+        "frame": "aluminum"
+      },
+      "sim": {
+        "nano": true,
+        "esim": true,
+        "max_active": 2
+      },
+      "ip_rating": "IP68",
+      "has_3_5mm_jack": false,
+      "loudspeaker_type": "stereo",
+      "fingerprint_location": "under display",
+      "is_ultrasonic_fingerprint": true
+    },
+    "connectivity": {
+      "wifi": {
+        "standard": "802.11 a/b/g/n/ac/6e/7",
+        "generation": "WiFi 7",
+        "features": [
+          "tri-band"
+        ]
+      },
+      "bluetooth": {
+        "version": "5.3",
+        "features": [
+          "A2DP",
+          "LE",
+          "aptX",
+          "aptX HD"
+        ]
+      },
+      "has_nfc": true,
+      "has_ir": false,
+      "has_5g": true
+    },
+    "camera": {
+      "rear": {
+        "lenses": [
+          {
+            "type": "wide",
+            "mp": 50,
+            "sensor_size": "1/1.31",
+            "aperture": "f/1.7",
+            "focal_length_mm": 25,
+            "pixel_size_um": 1.2
+          },
+          {
+            "type": "periscope_telephoto",
+            "mp": 48,
+            "sensor_size": "1/2.55",
+            "aperture": "f/2.8",
+            "focal_length_mm": 113,
+            "pixel_size_um": null
+          },
+          {
+            "type": "ultrawide",
+            "mp": 48,
+            "sensor_size": "1/2.55",
+            "aperture": "f/1.7",
+            "focal_length_mm": null,
+            "pixel_size_um": null
+          }
+        ],
+        "max_video_resolution": "8K",
+        "max_fps_4k": 60,
+        "has_hdr_video": true
+      },
+      "selfie": {
+        "mp": 42,
+        "aperture": "f/2.2",
+        "focal_length_mm": 17,
+        "lens_type": "ultrawide",
+        "has_pdaf": true,
+        "has_3d_sensor": false,
+        "max_video_resolution": "4K",
+        "max_fps_4k": 60,
+        "has_hdr_video": true
+      },
+      "ois": true,
+      "pdaf": true
+    },
+    "software": {
+      "launch_android_version": "Android 14",
+      "major_android_updates_years": 7,
+      "reliable_upto": "2030, September 09"
+    },
+    "filter": {
+      "release_year": 2024,
+      "release_month": 9,
+      "release_ts": 1725840000,
+      "price_min_inr": 84499,
+      "price_max_inr": 84499,
+      "price_available_variant_count": 1,
+      "has_price_data": true,
+      "ram_options_gb": [
+        16
+      ],
+      "storage_options_gb": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "sim": {
+        "has_esim": true,
+        "has_dual_sim": true,
+        "sim_count_max": 2
+      },
+      "display_ppi": 496.8,
+      "is_ltpo": true,
+      "is_foldable": false,
+      "water_resistance": {
+        "level": 68,
+        "derived": true
+      },
+      "water_resistance_level": 68
+    },
+    "source": {
+      "spec_url": "https://www.gsmarena.com/google_pixel_9_pro-13218.php",
+      "price_url": "https://www.gsmarena.com/google_pixel_9_pro-price-13218.php"
+    },
+    "scores": {
+      "gaming": 99,
+      "camera": 96,
+      "display": 88,
+      "battery": 47,
+      "scoring_version": 5
+    },
+    "tags": {
+      "can_game": true,
+      "good_camera": true,
+      "good_display": true,
+      "good_battery": true
+    },
+    "parse_quality": {
+      "missing_fields": [],
+      "missing_fields_count": 0
+    },
+    "schema_version": 2,
+    "scraped_at": "2026-03-11T08:50:55.794150+00:00",
+    "spec_last_verified_at": "2026-03-11T08:50:55.794150+00:00",
+    "spec_hash": "70e57a64e6f7187125c00b46041417d4",
+    "price_hash": "747095ffe1fd6f4071e724b7fbf6ba16"
+  },
+  {
+    "device_type": "phone",
+    "brand": "OnePlus",
+    "model_name": "OnePlus Nord CE4",
+    "status": "available",
+    "release_date": "2024, April 04",
+    "release_date_iso": "2024-04-04",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-nord-ce4.jpg",
+    "performance": {
+      "chipset": "Qualcomm SM7550-AB Snapdragon 7 Gen 3 (4 nm)",
+      "cpu": "Octa-core (1x2.63 GHz Cortex-A715 & 4x2.4 GHz Cortex-A715 & 3x1.8 GHz Cortex-A510)",
+      "gpu": "Adreno 720",
+      "process_node_nm": 4.0,
+      "benchmarks": {
+        "antutu": 839564,
+        "geekbench": 3029,
+        "gfxbench": null
+      },
+      "chipset_tier": "midrange",
+      "gpu_tier": "midrange"
+    },
+    "memory": {
+      "storage_type": "UFS 3.1",
+      "expandable": true
+    },
+    "variants": [
+      {
+        "storage_gb": 128,
+        "ram_gb": 8,
+        "price_inr": null,
+        "price_last_checked_at": null,
+        "price_source": null,
+        "price_url": null
+      },
+      {
+        "storage_gb": 256,
+        "ram_gb": 8,
+        "price_inr": null,
+        "price_last_checked_at": null,
+        "price_source": null,
+        "price_url": null
+      }
+    ],
+    "display": {
+      "size_inches": 6.7,
+      "resolution_width": 1080,
+      "resolution_height": 2412,
+      "refresh_rate_hz": 120,
+      "panel_type": "Fluid AMOLED",
+      "typical_nits": null,
+      "hbm_nits": 900,
+      "peak_nits": 1100,
+      "supports_hdr10": true,
+      "supports_hdr10_plus": true,
+      "supports_dolby_vision": false,
+      "protection": null
+    },
+    "battery": {
+      "capacity_mah": 5500,
+      "active_use_hours": 13.66,
+      "endurance_hours": null,
+      "charging": {
+        "type": null,
+        "advertised": "100% in 29 min",
+        "estimated_watt": 100
+      },
+      "wireless_charging_watt": null,
+      "reverse_charging_watt": null,
+      "reverse_charging_supported": false
+    },
+    "physical": {
+      "weight_g": 186,
+      "thickness_mm": 8.4,
+      "materials": {
+        "front": null,
+        "back": null,
+        "frame": null
+      },
+      "sim": {
+        "nano": true,
+        "esim": false,
+        "max_active": 1
+      },
+      "ip_rating": "IP54",
+      "has_3_5mm_jack": false,
+      "loudspeaker_type": "stereo",
+      "fingerprint_location": "under display",
+      "is_ultrasonic_fingerprint": false
+    },
+    "connectivity": {
+      "wifi": {
+        "standard": "802.11 a/b/g/n/ac/6",
+        "generation": "WiFi 6",
+        "features": [
+          "dual-band"
+        ]
+      },
+      "bluetooth": {
+        "version": "5.4",
+        "features": [
+          "A2DP",
+          "LE",
+          "aptX",
+          "aptX HD",
+          "LHDC"
+        ]
+      },
+      "has_nfc": false,
+      "has_ir": true,
+      "has_5g": true
+    },
+    "camera": {
+      "rear": {
+        "lenses": [
+          {
+            "type": "wide",
+            "mp": 50,
+            "sensor_size": "1/1.95",
+            "aperture": "f/1.8",
+            "focal_length_mm": 26,
+            "pixel_size_um": 0.8
+          },
+          {
+            "type": "ultrawide",
+            "mp": 8,
+            "sensor_size": "1/4.0",
+            "aperture": "f/2.2",
+            "focal_length_mm": 16,
+            "pixel_size_um": 1.12
+          }
+        ],
+        "max_video_resolution": "4K",
+        "max_fps_4k": 30,
+        "has_hdr_video": true
+      },
+      "selfie": {
+        "mp": 16,
+        "aperture": "f/2.4",
+        "focal_length_mm": 26,
+        "lens_type": "wide",
+        "has_pdaf": false,
+        "has_3d_sensor": false,
+        "max_video_resolution": "1080P",
+        "max_fps_4k": null,
+        "has_hdr_video": false
+      },
+      "ois": true,
+      "pdaf": true
+    },
+    "software": {
+      "launch_android_version": "Android 14",
+      "major_android_updates_years": 5,
+      "reliable_upto": "2028, April 04"
+    },
+    "filter": {
+      "release_year": 2024,
+      "release_month": 4,
+      "release_ts": 1712188800,
+      "price_min_inr": null,
+      "price_max_inr": null,
+      "price_available_variant_count": 0,
+      "has_price_data": false,
+      "ram_options_gb": [
+        8
+      ],
+      "storage_options_gb": [
+        128,
+        256
+      ],
+      "sim": {
+        "has_esim": false,
+        "has_dual_sim": false,
+        "sim_count_max": 1
+      },
+      "display_ppi": 394.4,
+      "is_ltpo": false,
+      "is_foldable": false,
+      "water_resistance": {
+        "level": 54,
+        "derived": true
+      },
+      "water_resistance_level": 54
+    },
+    "source": {
+      "spec_url": "https://www.gsmarena.com/oneplus_nord_ce4-12892.php",
+      "price_url": "https://www.gsmarena.com/oneplus_nord_ce4-price-12892.php"
+    },
+    "scores": {
+      "gaming": 67,
+      "camera": 64,
+      "display": 67,
+      "battery": 46,
+      "scoring_version": 5
+    },
+    "tags": {
+      "can_game": false,
+      "good_camera": false,
+      "good_display": false,
+      "good_battery": true
+    },
+    "parse_quality": {
+      "missing_fields": [],
+      "missing_fields_count": 0
+    },
+    "schema_version": 2,
+    "scraped_at": "2026-03-11T08:51:26.191934+00:00",
+    "spec_last_verified_at": "2026-03-11T08:51:26.191934+00:00",
+    "spec_hash": "b390681596a148d959870b173fb5fa23",
+    "price_hash": "df261b85b0d63d5ab5e68b45bc01dd8d"
+  },
+  {
+    "device_type": "phone",
+    "brand": "Oppo",
+    "model_name": "Oppo F31 Pro+",
+    "status": "available",
+    "release_date": "2025, September 16",
+    "release_date_iso": "2025-09-16",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/oppo-a6-max.jpg",
+    "performance": {
+      "chipset": "Qualcomm SM7550-AB Snapdragon 7 Gen 3 (4 nm)",
+      "cpu": "Octa-core (1x2.63 GHz Cortex-A715 & 3x2.4 GHz Cortex-A715 & 4x1.8 GHz Cortex-A510)",
+      "gpu": "Adreno 720",
+      "process_node_nm": 4.0,
+      "chipset_tier": "midrange",
+      "gpu_tier": "midrange"
+    },
+    "memory": {
+      "storage_type": "UFS 3.1",
+      "expandable": false
+    },
+    "variants": [
+      {
+        "storage_gb": 256,
+        "ram_gb": 8,
+        "price_inr": null,
+        "price_last_checked_at": null,
+        "price_source": null,
+        "price_url": null
+      },
+      {
+        "storage_gb": 256,
+        "ram_gb": 12,
+        "price_inr": null,
+        "price_last_checked_at": null,
+        "price_source": null,
+        "price_url": null
+      }
+    ],
+    "display": {
+      "size_inches": 6.8,
+      "resolution_width": 1280,
+      "resolution_height": 2800,
+      "refresh_rate_hz": 120,
+      "panel_type": "AMOLED",
+      "typical_nits": null,
+      "hbm_nits": 1600,
+      "peak_nits": 1600,
+      "supports_hdr10": false,
+      "supports_hdr10_plus": false,
+      "supports_dolby_vision": false,
+      "protection": "AGC DT-Star D+"
+    },
+    "battery": {
+      "capacity_mah": 7000,
+      "active_use_hours": 17.22,
+      "endurance_hours": null,
+      "charging": {
+        "type": null,
+        "advertised": "42% in 20 min",
+        "estimated_watt": 80
+      },
+      "wireless_charging_watt": null,
+      "reverse_charging_watt": 10.0,
+      "reverse_charging_supported": true
+    },
+    "physical": {
+      "weight_g": 195,
+      "thickness_mm": 7.7,
+      "materials": {
+        "front": null,
+        "back": null,
+        "frame": null
+      },
+      "sim": {
+        "nano": true,
+        "esim": false,
+        "max_active": 1
+      },
+      "ip_rating": "IP68",
+      "has_3_5mm_jack": false,
+      "loudspeaker_type": "stereo",
+      "fingerprint_location": "under display",
+      "is_ultrasonic_fingerprint": false
+    },
+    "connectivity": {
+      "wifi": {
+        "standard": "802.11 a/b/g/n/ac/6",
+        "generation": "WiFi 6",
+        "features": [
+          "dual-band"
+        ]
+      },
+      "bluetooth": {
+        "version": "5.2",
+        "features": [
+          "A2DP",
+          "LE",
+          "aptX",
+          "aptX HD"
+        ]
+      },
+      "has_nfc": false,
+      "has_ir": true,
+      "has_5g": true
+    },
+    "camera": {
+      "rear": {
+        "lenses": [
+          {
+            "type": "wide",
+            "mp": 50,
+            "sensor_size": null,
+            "aperture": "f/1.8",
+            "focal_length_mm": null,
+            "pixel_size_um": null
+          }
+        ],
+        "max_video_resolution": "4K",
+        "max_fps_4k": 30,
+        "has_hdr_video": true
+      },
+      "selfie": {
+        "mp": 32,
+        "aperture": "f/2.4",
+        "focal_length_mm": null,
+        "lens_type": "wide",
+        "has_pdaf": false,
+        "has_3d_sensor": false,
+        "max_video_resolution": "1080P",
+        "max_fps_4k": null,
+        "has_hdr_video": false
+      },
+      "ois": true,
+      "pdaf": true
+    },
+    "software": {
+      "launch_android_version": "Android 15",
+      "major_android_updates_years": 5,
+      "reliable_upto": "2029, September 16"
+    },
+    "filter": {
+      "release_year": 2025,
+      "release_month": 9,
+      "release_ts": 1757980800,
+      "price_min_inr": null,
+      "price_max_inr": null,
+      "price_available_variant_count": 0,
+      "has_price_data": false,
+      "ram_options_gb": [
+        8,
+        12
+      ],
+      "storage_options_gb": [
+        256
+      ],
+      "sim": {
+        "has_esim": false,
+        "has_dual_sim": false,
+        "sim_count_max": 1
+      },
+      "display_ppi": 452.8,
+      "is_ltpo": false,
+      "is_foldable": false,
+      "water_resistance": {
+        "level": 68,
+        "derived": true
+      },
+      "water_resistance_level": 68
+    },
+    "source": {
+      "spec_url": "https://www.gsmarena.com/oppo_f31_pro+_5g-14148.php",
+      "price_url": "https://www.gsmarena.com/oppo_f31_pro+_5g-price-14148.php"
+    },
+    "scores": {
+      "gaming": 71,
+      "camera": 38,
+      "display": 63,
+      "battery": 55,
+      "scoring_version": 5
+    },
+    "tags": {
+      "can_game": true,
+      "good_camera": false,
+      "good_display": false,
+      "good_battery": true
+    },
+    "parse_quality": {
+      "missing_fields": [],
+      "missing_fields_count": 0
+    },
+    "schema_version": 2,
+    "scraped_at": "2026-03-11T08:52:06.291855+00:00",
+    "spec_last_verified_at": "2026-03-11T08:52:06.291855+00:00",
+    "spec_hash": "8bfdfb75febdec40e05393b16c8d4d39",
+    "price_hash": "51b4773723d3f4df92a000ace36160e4"
+  },
+  {
+    "device_type": "phone",
+    "brand": "Realme",
+    "model_name": "Realme GT 7T",
+    "status": "available",
+    "release_date": "2025, May 27",
+    "release_date_iso": "2025-05-27",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/realme-gt-7t.jpg",
+    "performance": {
+      "chipset": "Mediatek Dimensity 8400 Max (4 nm)",
+      "cpu": "Octa-core (1x3.25 GHz Cortex-A725 & 3x3.0 GHz Cortex-A725 & 4x2.1 GHz Cortex-A725)",
+      "gpu": "Mali-G720 MC7",
+      "process_node_nm": 4.0,
+      "chipset_tier": "midrange",
+      "gpu_tier": "upper_mid"
+    },
+    "memory": {
+      "storage_type": "UFS 3.1",
+      "expandable": false
+    },
+    "variants": [
+      {
+        "storage_gb": 128,
+        "ram_gb": 8,
+        "price_inr": null,
+        "price_last_checked_at": null,
+        "price_source": null,
+        "price_url": null
+      },
+      {
+        "storage_gb": 256,
+        "ram_gb": 8,
+        "price_inr": 30850,
+        "price_last_checked_at": "2026-03-11T08:52:42.190461+00:00",
+        "price_source": "Amazon",
+        "price_url": "https://www.amazon.in/dp/B0F6YQBZF5"
+      },
+      {
+        "storage_gb": 256,
+        "ram_gb": 12,
+        "price_inr": 34990,
+        "price_last_checked_at": "2026-03-11T08:52:42.190461+00:00",
+        "price_source": "Amazon",
+        "price_url": "https://www.amazon.in/dp/B0F6YQBZF5"
+      },
+      {
+        "storage_gb": 512,
+        "ram_gb": 12,
+        "price_inr": 41990,
+        "price_last_checked_at": "2026-03-11T08:52:42.190461+00:00",
+        "price_source": "Amazon",
+        "price_url": "https://www.amazon.in/dp/B0F6YQBZF5"
+      }
+    ],
+    "display": {
+      "size_inches": 6.8,
+      "resolution_width": 1280,
+      "resolution_height": 2800,
+      "refresh_rate_hz": 120,
+      "panel_type": "AMOLED",
+      "typical_nits": 1000,
+      "hbm_nits": 1800,
+      "peak_nits": 6000,
+      "supports_hdr10": true,
+      "supports_hdr10_plus": true,
+      "supports_dolby_vision": true,
+      "protection": "ArmorShell glass"
+    },
+    "battery": {
+      "capacity_mah": 7000,
+      "active_use_hours": 17.22,
+      "endurance_hours": null,
+      "charging": {
+        "type": null,
+        "advertised": "50% in 15 min; 100% in 42 min",
+        "estimated_watt": 120
+      },
+      "wireless_charging_watt": null,
+      "reverse_charging_watt": null,
+      "reverse_charging_supported": false
+    },
+    "physical": {
+      "weight_g": 202,
+      "thickness_mm": 8.3,
+      "materials": {
+        "front": null,
+        "back": null,
+        "frame": null
+      },
+      "sim": {
+        "nano": true,
+        "esim": false,
+        "max_active": 1
+      },
+      "ip_rating": "IP68",
+      "has_3_5mm_jack": false,
+      "loudspeaker_type": "stereo",
+      "fingerprint_location": "under display",
+      "is_ultrasonic_fingerprint": false
+    },
+    "connectivity": {
+      "wifi": {
+        "standard": "802.11 a/b/g/n/ac/6",
+        "generation": "WiFi 6",
+        "features": [
+          "dual-band"
+        ]
+      },
+      "bluetooth": {
+        "version": "6.0",
+        "features": [
+          "A2DP",
+          "LE"
+        ]
+      },
+      "has_nfc": true,
+      "has_ir": true,
+      "has_5g": true
+    },
+    "camera": {
+      "rear": {
+        "lenses": [
+          {
+            "type": "wide",
+            "mp": 50,
+            "sensor_size": "1/1.56",
+            "aperture": "f/1.8",
+            "focal_length_mm": 24,
+            "pixel_size_um": 1.0
+          },
+          {
+            "type": "ultrawide",
+            "mp": 8,
+            "sensor_size": "1/4.0",
+            "aperture": "f/2.2",
+            "focal_length_mm": 16,
+            "pixel_size_um": 1.12
+          }
+        ],
+        "max_video_resolution": "4K",
+        "max_fps_4k": 60,
+        "has_hdr_video": true
+      },
+      "selfie": {
+        "mp": 32,
+        "aperture": "f/2.5",
+        "focal_length_mm": 21,
+        "lens_type": "wide",
+        "has_pdaf": false,
+        "has_3d_sensor": false,
+        "max_video_resolution": "4K",
+        "max_fps_4k": 60,
+        "has_hdr_video": false
+      },
+      "ois": true,
+      "pdaf": true
+    },
+    "software": {
+      "launch_android_version": "Android 15",
+      "major_android_updates_years": 6,
+      "reliable_upto": "2030, May 27"
+    },
+    "filter": {
+      "release_year": 2025,
+      "release_month": 5,
+      "release_ts": 1748304000,
+      "price_min_inr": 30850,
+      "price_max_inr": 41990,
+      "price_available_variant_count": 3,
+      "has_price_data": true,
+      "ram_options_gb": [
+        8,
+        12
+      ],
+      "storage_options_gb": [
+        128,
+        256,
+        512
+      ],
+      "sim": {
+        "has_esim": false,
+        "has_dual_sim": false,
+        "sim_count_max": 1
+      },
+      "display_ppi": 452.8,
+      "is_ltpo": false,
+      "is_foldable": false,
+      "water_resistance": {
+        "level": 68,
+        "derived": true
+      },
+      "water_resistance_level": 68
+    },
+    "source": {
+      "spec_url": "https://www.gsmarena.com/realme_gt_7t_5g-13869.php",
+      "price_url": "https://www.gsmarena.com/realme_gt_7t_5g-price-13869.php"
+    },
+    "scores": {
+      "gaming": 76,
+      "camera": 64,
+      "display": 88,
+      "battery": 55,
+      "scoring_version": 5
+    },
+    "tags": {
+      "can_game": true,
+      "good_camera": false,
+      "good_display": true,
+      "good_battery": true
+    },
+    "parse_quality": {
+      "missing_fields": [],
+      "missing_fields_count": 0
+    },
+    "schema_version": 2,
+    "scraped_at": "2026-03-11T08:52:42.190461+00:00",
+    "spec_last_verified_at": "2026-03-11T08:52:42.190461+00:00",
+    "spec_hash": "da9ec9301bb8f73574b8bdd712f00f9e",
+    "price_hash": "06b7b27b03c30d0d52834450af8103f3"
+  },
+  {
+    "device_type": "phone",
+    "brand": "Xiaomi",
+    "model_name": "Xiaomi Poco F8 Ultra",
+    "status": "available",
+    "release_date": "2025, November 26",
+    "release_date_iso": "2025-11-26",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-f8-ultra.jpg",
+    "performance": {
+      "chipset": "Qualcomm SM8850-AC Snapdragon 8 Elite Gen 5 (3 nm)",
+      "cpu": "Octa-core (2x4.6 GHz Oryon V3 Phoenix L + 6x3.62 GHz Oryon V3 Phoenix M)",
+      "gpu": "Adreno 840",
+      "process_node_nm": 3.0,
+      "benchmarks": {
+        "antutu": 2720760,
+        "geekbench": 10876,
+        "gfxbench": null
+      },
+      "chipset_tier": "ultimate",
+      "gpu_tier": "ultimate"
+    },
+    "memory": {
+      "storage_type": "UFS 4.1",
+      "expandable": false
+    },
+    "variants": [
+      {
+        "storage_gb": 256,
+        "ram_gb": 12,
+        "price_inr": null,
+        "price_last_checked_at": null,
+        "price_source": null,
+        "price_url": null
+      },
+      {
+        "storage_gb": 512,
+        "ram_gb": 16,
+        "price_inr": null,
+        "price_last_checked_at": null,
+        "price_source": null,
+        "price_url": null
+      }
+    ],
+    "display": {
+      "size_inches": 6.9,
+      "resolution_width": 1200,
+      "resolution_height": 2608,
+      "refresh_rate_hz": 120,
+      "panel_type": "AMOLED",
+      "typical_nits": null,
+      "hbm_nits": 2000,
+      "peak_nits": 3500,
+      "supports_hdr10": true,
+      "supports_hdr10_plus": true,
+      "supports_dolby_vision": true,
+      "protection": "Poco Shield Glass"
+    },
+    "battery": {
+      "capacity_mah": 6500,
+      "active_use_hours": 18.87,
+      "endurance_hours": null,
+      "charging": {
+        "type": "PD3.0",
+        "advertised": "100% in 38 min; 50% in 31 min",
+        "estimated_watt": 100
+      },
+      "wireless_charging_watt": 50,
+      "reverse_charging_watt": 22.5,
+      "reverse_charging_supported": true
+    },
+    "physical": {
+      "weight_g": 218,
+      "thickness_mm": 7.9,
+      "materials": {
+        "front": "Poco Shield Glass",
+        "back": "fiber-reinforced plastic  or silicone polymer",
+        "frame": "aluminum alloy"
+      },
+      "sim": {
+        "nano": true,
+        "esim": true,
+        "max_active": 2
+      },
+      "ip_rating": "IP68",
+      "has_3_5mm_jack": false,
+      "loudspeaker_type": "stereo",
+      "fingerprint_location": "under display",
+      "is_ultrasonic_fingerprint": true
+    },
+    "connectivity": {
+      "wifi": {
+        "standard": "802.11 a/b/g/n/ac/6/7",
+        "generation": "WiFi 7",
+        "features": [
+          "dual-band",
+          "wifi-direct"
+        ]
+      },
+      "bluetooth": {
+        "version": "6.0",
+        "features": [
+          "A2DP",
+          "LE",
+          "aptX",
+          "aptX HD",
+          "aptX Adaptive",
+          "LHDC"
+        ]
+      },
+      "has_nfc": true,
+      "has_ir": true,
+      "has_5g": true
+    },
+    "camera": {
+      "rear": {
+        "lenses": [
+          {
+            "type": "wide",
+            "mp": 50,
+            "sensor_size": "1/1.31",
+            "aperture": "f/1.7",
+            "focal_length_mm": 23,
+            "pixel_size_um": 1.2
+          },
+          {
+            "type": "periscope_telephoto",
+            "mp": 50,
+            "sensor_size": "1/2.76",
+            "aperture": "f/3.0",
+            "focal_length_mm": 115,
+            "pixel_size_um": 0.64
+          },
+          {
+            "type": "ultrawide",
+            "mp": 50,
+            "sensor_size": "1/2.88",
+            "aperture": "f/2.4",
+            "focal_length_mm": 18,
+            "pixel_size_um": 0.61
+          }
+        ],
+        "max_video_resolution": "8K",
+        "max_fps_4k": 60,
+        "has_hdr_video": true
+      },
+      "selfie": {
+        "mp": 32,
+        "aperture": "f/2.2",
+        "focal_length_mm": 21,
+        "lens_type": "wide",
+        "has_pdaf": false,
+        "has_3d_sensor": false,
+        "max_video_resolution": "4K",
+        "max_fps_4k": 30,
+        "has_hdr_video": true
+      },
+      "ois": true,
+      "pdaf": true
+    },
+    "software": {
+      "launch_android_version": "Android 16",
+      "major_android_updates_years": 5,
+      "reliable_upto": "2029, November 26"
+    },
+    "filter": {
+      "release_year": 2025,
+      "release_month": 11,
+      "release_ts": 1764115200,
+      "price_min_inr": null,
+      "price_max_inr": null,
+      "price_available_variant_count": 0,
+      "has_price_data": false,
+      "ram_options_gb": [
+        12,
+        16
+      ],
+      "storage_options_gb": [
+        256,
+        512
+      ],
+      "sim": {
+        "has_esim": true,
+        "has_dual_sim": true,
+        "sim_count_max": 2
+      },
+      "display_ppi": 416.1,
+      "is_ltpo": false,
+      "is_foldable": false,
+      "water_resistance": {
+        "level": 68,
+        "derived": true
+      },
+      "water_resistance_level": 68
+    },
+    "source": {
+      "spec_url": "https://www.gsmarena.com/xiaomi_poco_f8_ultra_5g-14301.php",
+      "price_url": "https://www.gsmarena.com/xiaomi_poco_f8_ultra_5g-price-14301.php"
+    },
+    "scores": {
+      "gaming": 100,
+      "camera": 96,
+      "display": 86,
+      "battery": 65,
+      "scoring_version": 5
+    },
+    "tags": {
+      "can_game": true,
+      "good_camera": true,
+      "good_display": true,
+      "good_battery": true
+    },
+    "parse_quality": {
+      "missing_fields": [],
+      "missing_fields_count": 0
+    },
+    "schema_version": 2,
+    "scraped_at": "2026-03-11T08:53:14.862071+00:00",
+    "spec_last_verified_at": "2026-03-11T08:53:14.862071+00:00",
+    "spec_hash": "d072c26a2e0e76302beb3a513a24a0dc",
+    "price_hash": "6143061bfa2b2c843677f9d44a119fd3"
+  },
+  {
+    "device_type": "phone",
+    "brand": "Xiaomi",
+    "model_name": "Xiaomi Redmi K90",
+    "status": "available",
+    "release_date": "2025, October 23",
+    "release_date_iso": "2025-10-23",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-90.jpg",
+    "performance": {
+      "chipset": "Qualcomm SM8750-AB Snapdragon 8 Elite (3 nm)",
+      "cpu": "Octa-core (2x4.32 GHz Oryon V2 Phoenix L + 6x3.53 GHz Oryon V2 Phoenix M)",
+      "gpu": "Adreno 830",
+      "process_node_nm": 3.0,
+      "chipset_tier": "ultimate",
+      "gpu_tier": "ultimate"
+    },
+    "memory": {
+      "storage_type": "UFS 4.1",
+      "expandable": false
+    },
+    "variants": [
+      {
+        "storage_gb": 256,
+        "ram_gb": 12,
+        "price_inr": null,
+        "price_last_checked_at": null,
+        "price_source": null,
+        "price_url": null
+      },
+      {
+        "storage_gb": 512,
+        "ram_gb": 12,
+        "price_inr": null,
+        "price_last_checked_at": null,
+        "price_source": null,
+        "price_url": null
+      },
+      {
+        "storage_gb": 512,
+        "ram_gb": 16,
+        "price_inr": null,
+        "price_last_checked_at": null,
+        "price_source": null,
+        "price_url": null
+      },
+      {
+        "storage_gb": 1024,
+        "ram_gb": 16,
+        "price_inr": null,
+        "price_last_checked_at": null,
+        "price_source": null,
+        "price_url": null
+      }
+    ],
+    "display": {
+      "size_inches": 6.59,
+      "resolution_width": 1156,
+      "resolution_height": 2510,
+      "refresh_rate_hz": 120,
+      "panel_type": "AMOLED",
+      "typical_nits": null,
+      "hbm_nits": null,
+      "peak_nits": 3500,
+      "supports_hdr10": true,
+      "supports_hdr10_plus": true,
+      "supports_dolby_vision": true,
+      "protection": null
+    },
+    "battery": {
+      "capacity_mah": 7100,
+      "active_use_hours": 19.49,
+      "endurance_hours": null,
+      "charging": {
+        "type": "PD3.0",
+        "advertised": null,
+        "estimated_watt": 100
+      },
+      "wireless_charging_watt": null,
+      "reverse_charging_watt": 22.5,
+      "reverse_charging_supported": true
+    },
+    "physical": {
+      "weight_g": 206,
+      "thickness_mm": 8.0,
+      "materials": {
+        "front": "Glass",
+        "back": null,
+        "frame": "aluminum"
+      },
+      "sim": {
+        "nano": true,
+        "esim": false,
+        "max_active": 1
+      },
+      "ip_rating": "IP68",
+      "has_3_5mm_jack": false,
+      "loudspeaker_type": "stereo",
+      "fingerprint_location": "under display",
+      "is_ultrasonic_fingerprint": true
+    },
+    "connectivity": {
+      "wifi": {
+        "standard": "802.11 a/b/g/n/ac/6/7",
+        "generation": "WiFi 7",
+        "features": [
+          "dual-band",
+          "wifi-direct"
+        ]
+      },
+      "bluetooth": {
+        "version": "5.4",
+        "features": [
+          "A2DP",
+          "LE",
+          "LHDC"
+        ]
+      },
+      "has_nfc": true,
+      "has_ir": true,
+      "has_5g": true
+    },
+    "camera": {
+      "rear": {
+        "lenses": [
+          {
+            "type": "wide",
+            "mp": 50,
+            "sensor_size": "1/1.55",
+            "aperture": "f/1.9",
+            "focal_length_mm": 24,
+            "pixel_size_um": 1.0
+          },
+          {
+            "type": "telephoto",
+            "mp": 50,
+            "sensor_size": null,
+            "aperture": "f/2.2",
+            "focal_length_mm": 60,
+            "pixel_size_um": null
+          },
+          {
+            "type": "ultrawide",
+            "mp": 8,
+            "sensor_size": null,
+            "aperture": "f/2.2",
+            "focal_length_mm": 15,
+            "pixel_size_um": null
+          }
+        ],
+        "max_video_resolution": "8K",
+        "max_fps_4k": 60,
+        "has_hdr_video": true
+      },
+      "selfie": {
+        "mp": 20,
+        "aperture": null,
+        "focal_length_mm": null,
+        "lens_type": "wide",
+        "has_pdaf": false,
+        "has_3d_sensor": false,
+        "max_video_resolution": "1080P",
+        "max_fps_4k": null,
+        "has_hdr_video": false
+      },
+      "ois": true,
+      "pdaf": true
+    },
+    "software": {
+      "launch_android_version": "Android 16",
+      "major_android_updates_years": 5,
+      "reliable_upto": "2029, October 23"
+    },
+    "filter": {
+      "release_year": 2025,
+      "release_month": 10,
+      "release_ts": 1761177600,
+      "price_min_inr": null,
+      "price_max_inr": null,
+      "price_available_variant_count": 0,
+      "has_price_data": false,
+      "ram_options_gb": [
+        12,
+        16
+      ],
+      "storage_options_gb": [
+        256,
+        512,
+        1024
+      ],
+      "sim": {
+        "has_esim": false,
+        "has_dual_sim": false,
+        "sim_count_max": 1
+      },
+      "display_ppi": 419.3,
+      "is_ltpo": false,
+      "is_foldable": false,
+      "water_resistance": {
+        "level": 68,
+        "derived": true
+      },
+      "water_resistance_level": 68
+    },
+    "source": {
+      "spec_url": "https://www.gsmarena.com/xiaomi_redmi_k90_5g-14280.php",
+      "price_url": "https://www.gsmarena.com/xiaomi_redmi_k90_5g-price-14280.php"
+    },
+    "scores": {
+      "gaming": 100,
+      "camera": 80,
+      "display": 86,
+      "battery": 55,
+      "scoring_version": 5
+    },
+    "tags": {
+      "can_game": true,
+      "good_camera": true,
+      "good_display": true,
+      "good_battery": true
+    },
+    "parse_quality": {
+      "missing_fields": [],
+      "missing_fields_count": 0
+    },
+    "schema_version": 2,
+    "scraped_at": "2026-03-11T08:53:57.292466+00:00",
+    "spec_last_verified_at": "2026-03-11T08:53:57.292466+00:00",
+    "spec_hash": "2e243d543de5cd77bc73397fe2e3b60f",
+    "price_hash": "23257254658a2c86b1d64ce8b5fbb793"
+  },
+  {
+    "device_type": "phone",
+    "brand": "Tecno",
+    "model_name": "Tecno Phantom V Flip2",
+    "status": "available",
+    "release_date": null,
+    "release_date_iso": null,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/tecno-phantom-v-flip2-5g.jpg",
+    "performance": {
+      "chipset": "Mediatek Dimensity 8020 (6 nm)",
+      "cpu": "Octa-core (4x2.6 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55)",
+      "gpu": "Mali-G77 MC9",
+      "process_node_nm": 6.0,
+      "benchmarks": {
+        "antutu": 775306,
+        "geekbench": 2544,
+        "gfxbench": null
+      },
+      "chipset_tier": "midrange",
+      "gpu_tier": "midrange"
+    },
+    "memory": {
+      "storage_type": "UFS",
+      "expandable": false
+    },
+    "variants": [
+      {
+        "storage_gb": 256,
+        "ram_gb": 8,
+        "price_inr": null,
+        "price_last_checked_at": null,
+        "price_source": null,
+        "price_url": null
+      }
+    ],
+    "display": {
+      "size_inches": 6.9,
+      "resolution_width": 1080,
+      "resolution_height": 2640,
+      "refresh_rate_hz": 120,
+      "panel_type": "Foldable LTPO AMOLED",
+      "typical_nits": null,
+      "hbm_nits": null,
+      "peak_nits": 1500,
+      "supports_hdr10": false,
+      "supports_hdr10_plus": false,
+      "supports_dolby_vision": false,
+      "protection": null
+    },
+    "battery": {
+      "capacity_mah": 4720,
+      "active_use_hours": 11.62,
+      "endurance_hours": null,
+      "charging": {
+        "type": null,
+        "advertised": "50% in 15 min; 100% in 45 min",
+        "estimated_watt": 70
+      },
+      "wireless_charging_watt": null,
+      "reverse_charging_watt": null,
+      "reverse_charging_supported": false
+    },
+    "physical": {
+      "weight_g": 196,
+      "thickness_mm": 7.6,
+      "materials": {
+        "front": null,
+        "back": "Eco leather",
+        "frame": "aluminum"
+      },
+      "sim": {
+        "nano": true,
+        "esim": false,
+        "max_active": 1
+      },
+      "ip_rating": null,
+      "has_3_5mm_jack": false,
+      "loudspeaker_type": "stereo",
+      "fingerprint_location": "side-mounted",
+      "is_ultrasonic_fingerprint": false
+    },
+    "connectivity": {
+      "wifi": {
+        "standard": "802.11 a/b/g/n/ac/6",
+        "generation": "WiFi 6",
+        "features": [
+          "dual-band"
+        ]
+      },
+      "bluetooth": {
+        "version": "5.3",
+        "features": [
+          "A2DP",
+          "LE"
+        ]
+      },
+      "has_nfc": true,
+      "has_ir": false,
+      "has_5g": true
+    },
+    "camera": {
+      "rear": {
+        "lenses": [
+          {
+            "type": "wide",
+            "mp": 50,
+            "sensor_size": "1/1.57",
+            "aperture": null,
+            "focal_length_mm": null,
+            "pixel_size_um": 1.0
+          },
+          {
+            "type": "ultrawide",
+            "mp": 50,
+            "sensor_size": null,
+            "aperture": null,
+            "focal_length_mm": null,
+            "pixel_size_um": null
+          }
+        ],
+        "max_video_resolution": "4K",
+        "max_fps_4k": 30,
+        "has_hdr_video": true
+      },
+      "selfie": {
+        "mp": 32,
+        "aperture": "f/2.5",
+        "focal_length_mm": 24,
+        "lens_type": "wide",
+        "has_pdaf": true,
+        "has_3d_sensor": false,
+        "max_video_resolution": "1080P",
+        "max_fps_4k": null,
+        "has_hdr_video": false
+      },
+      "ois": true,
+      "pdaf": true
+    },
+    "software": {
+      "launch_android_version": "Android 14",
+      "major_android_updates_years": 5,
+      "reliable_upto": null
+    },
+    "filter": {
+      "release_year": null,
+      "release_month": null,
+      "release_ts": null,
+      "price_min_inr": null,
+      "price_max_inr": null,
+      "price_available_variant_count": 0,
+      "has_price_data": false,
+      "ram_options_gb": [
+        8
+      ],
+      "storage_options_gb": [
+        256
+      ],
+      "sim": {
+        "has_esim": false,
+        "has_dual_sim": false,
+        "sim_count_max": 1
+      },
+      "display_ppi": 413.4,
+      "is_ltpo": true,
+      "is_foldable": true,
+      "water_resistance": {
+        "level": null,
+        "derived": true
+      },
+      "water_resistance_level": null
+    },
+    "source": {
+      "spec_url": "https://www.gsmarena.com/tecno_phantom_v_flip2-13335.php",
+      "price_url": "https://www.gsmarena.com/tecno_phantom_v_flip2-price-13335.php"
+    },
+    "scores": {
+      "gaming": 61,
+      "camera": 64,
+      "display": 66,
+      "battery": 37,
+      "scoring_version": 5
+    },
+    "tags": {
+      "can_game": false,
+      "good_camera": false,
+      "good_display": false,
+      "good_battery": false
+    },
+    "parse_quality": {
+      "missing_fields": [
+        "release_date",
+        "physical.ip_rating"
+      ],
+      "missing_fields_count": 2
+    },
+    "schema_version": 2,
+    "scraped_at": "2026-03-11T08:54:33.657282+00:00",
+    "spec_last_verified_at": "2026-03-11T08:54:33.657282+00:00",
+    "spec_hash": "0fe7ba45e74f7d7a486f4568ec4588a7",
+    "price_hash": "7244ad413ea44e9fb34b72bfc8c04fe0"
+  },
+  {
+    "device_type": "phone",
+    "brand": "Tecno",
+    "model_name": "Tecno Phantom V Fold2",
+    "status": "available",
+    "release_date": null,
+    "release_date_iso": null,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/tecno-phantom-v-fold2.jpg",
+    "performance": {
+      "chipset": "Mediatek Dimensity 9000+ (4 nm)",
+      "cpu": "Octa-core (1x3.20 GHz Cortex-X2 & 3x2.85 GHz Cortex-A710 & 4x1.80 GHz Cortex-A510)",
+      "gpu": "Mali-G710 MC10",
+      "process_node_nm": 4.0,
+      "benchmarks": {
+        "antutu": 1158040,
+        "geekbench": 4327,
+        "gfxbench": null
+      },
+      "chipset_tier": "flagship",
+      "gpu_tier": "flagship"
+    },
+    "memory": {
+      "storage_type": "UFS 4.0",
+      "expandable": false
+    },
+    "variants": [
+      {
+        "storage_gb": 512,
+        "ram_gb": 12,
+        "price_inr": null,
+        "price_last_checked_at": null,
+        "price_source": null,
+        "price_url": null
+      }
+    ],
+    "display": {
+      "size_inches": 7.85,
+      "resolution_width": 2000,
+      "resolution_height": 2296,
+      "refresh_rate_hz": 120,
+      "panel_type": "Foldable LTPO AMOLED",
+      "typical_nits": null,
+      "hbm_nits": null,
+      "peak_nits": 1500,
+      "supports_hdr10": false,
+      "supports_hdr10_plus": false,
+      "supports_dolby_vision": false,
+      "protection": null
+    },
+    "battery": {
+      "capacity_mah": 5750,
+      "active_use_hours": 9.57,
+      "endurance_hours": null,
+      "charging": {
+        "type": null,
+        "advertised": "50% in 20 min; 100% in 49 min",
+        "estimated_watt": 70
+      },
+      "wireless_charging_watt": 15,
+      "reverse_charging_watt": null,
+      "reverse_charging_supported": false
+    },
+    "physical": {
+      "weight_g": 249,
+      "thickness_mm": 6.1,
+      "materials": {
+        "front": null,
+        "back": null,
+        "frame": null
+      },
+      "sim": {
+        "nano": true,
+        "esim": false,
+        "max_active": 1
+      },
+      "ip_rating": "IP54",
+      "has_3_5mm_jack": false,
+      "loudspeaker_type": "stereo",
+      "fingerprint_location": "under display",
+      "is_ultrasonic_fingerprint": false
+    },
+    "connectivity": {
+      "wifi": {
+        "standard": "802.11 a/b/g/n/ac/6e",
+        "generation": "WiFi 6E",
+        "features": [
+          "dual-band"
+        ]
+      },
+      "bluetooth": {
+        "version": "5.3",
+        "features": [
+          "A2DP",
+          "LE"
+        ]
+      },
+      "has_nfc": true,
+      "has_ir": false,
+      "has_5g": true
+    },
+    "camera": {
+      "rear": {
+        "lenses": [
+          {
+            "type": "wide",
+            "mp": 50,
+            "sensor_size": "1/1.3",
+            "aperture": "f/1.9",
+            "focal_length_mm": 23,
+            "pixel_size_um": 1.2
+          },
+          {
+            "type": "telephoto",
+            "mp": 50,
+            "sensor_size": "1/2.8",
+            "aperture": "f/2.0",
+            "focal_length_mm": 50,
+            "pixel_size_um": 0.64
+          },
+          {
+            "type": "ultrawide",
+            "mp": 50,
+            "sensor_size": null,
+            "aperture": "f/2.2",
+            "focal_length_mm": null,
+            "pixel_size_um": null
+          }
+        ],
+        "max_video_resolution": "4K",
+        "max_fps_4k": 30,
+        "has_hdr_video": true
+      },
+      "selfie": {
+        "mp": 32,
+        "aperture": "f/2.5",
+        "focal_length_mm": null,
+        "lens_type": "wide",
+        "has_pdaf": false,
+        "has_3d_sensor": false,
+        "max_video_resolution": "1080P",
+        "max_fps_4k": null,
+        "has_hdr_video": false
+      },
+      "ois": true,
+      "pdaf": true
+    },
+    "software": {
+      "launch_android_version": "Android 14",
+      "major_android_updates_years": 2,
+      "reliable_upto": null
+    },
+    "filter": {
+      "release_year": null,
+      "release_month": null,
+      "release_ts": null,
+      "price_min_inr": null,
+      "price_max_inr": null,
+      "price_available_variant_count": 0,
+      "has_price_data": false,
+      "ram_options_gb": [
+        12
+      ],
+      "storage_options_gb": [
+        512
+      ],
+      "sim": {
+        "has_esim": false,
+        "has_dual_sim": false,
+        "sim_count_max": 1
+      },
+      "display_ppi": 387.9,
+      "is_ltpo": true,
+      "is_foldable": true,
+      "water_resistance": {
+        "level": 54,
+        "derived": true
+      },
+      "water_resistance_level": 54
+    },
+    "source": {
+      "spec_url": "https://www.gsmarena.com/tecno_phantom_v_fold2-13334.php",
+      "price_url": "https://www.gsmarena.com/tecno_phantom_v_fold2-price-13334.php"
+    },
+    "scores": {
+      "gaming": 98,
+      "camera": 88,
+      "display": 62,
+      "battery": 43,
+      "scoring_version": 5
+    },
+    "tags": {
+      "can_game": true,
+      "good_camera": true,
+      "good_display": false,
+      "good_battery": false
+    },
+    "parse_quality": {
+      "missing_fields": [
+        "release_date"
+      ],
+      "missing_fields_count": 1
+    },
+    "schema_version": 2,
+    "scraped_at": "2026-03-11T08:55:07.691866+00:00",
+    "spec_last_verified_at": "2026-03-11T08:55:07.691866+00:00",
+    "spec_hash": "3c52b5b4b67772f943dcbc862c33bfa5",
+    "price_hash": "c2aff0623ff3e8b024e02128033e4240"
+  },
+  {
+    "device_type": "phone",
+    "brand": "vivo",
+    "model_name": "vivo iQOO 15 Ultra",
+    "status": "available",
+    "release_date": "2026, February 06",
+    "release_date_iso": "2026-02-06",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/vivo-iqoo-15-ultra.jpg",
+    "performance": {
+      "chipset": "Qualcomm SM8850-AC Snapdragon 8 Elite Gen 5 (3 nm)",
+      "cpu": "Octa-core (2x4.6 GHz Oryon V3 Phoenix L + 6x3.62 GHz Oryon V3 Phoenix M)",
+      "gpu": "Adreno 840",
+      "process_node_nm": 3.0,
+      "chipset_tier": "ultimate",
+      "gpu_tier": "ultimate"
+    },
+    "memory": {
+      "storage_type": "UFS 4.1",
+      "expandable": false
+    },
+    "variants": [
+      {
+        "storage_gb": 256,
+        "ram_gb": 16,
+        "price_inr": null,
+        "price_last_checked_at": null,
+        "price_source": null,
+        "price_url": null
+      },
+      {
+        "storage_gb": 512,
+        "ram_gb": 16,
+        "price_inr": null,
+        "price_last_checked_at": null,
+        "price_source": null,
+        "price_url": null
+      },
+      {
+        "storage_gb": 1024,
+        "ram_gb": 16,
+        "price_inr": null,
+        "price_last_checked_at": null,
+        "price_source": null,
+        "price_url": null
+      },
+      {
+        "storage_gb": 1024,
+        "ram_gb": 24,
+        "price_inr": null,
+        "price_last_checked_at": null,
+        "price_source": null,
+        "price_url": null
+      }
+    ],
+    "display": {
+      "size_inches": 6.85,
+      "resolution_width": 1440,
+      "resolution_height": 3168,
+      "refresh_rate_hz": 144,
+      "panel_type": "AMOLED",
+      "typical_nits": 1000,
+      "hbm_nits": 2600,
+      "peak_nits": 8000,
+      "supports_hdr10": true,
+      "supports_hdr10_plus": true,
+      "supports_dolby_vision": true,
+      "protection": null
+    },
+    "battery": {
+      "capacity_mah": 7400,
+      "active_use_hours": 19.8,
+      "endurance_hours": null,
+      "charging": {
+        "type": null,
+        "advertised": null,
+        "estimated_watt": 100
+      },
+      "wireless_charging_watt": 40,
+      "reverse_charging_watt": null,
+      "reverse_charging_supported": false
+    },
+    "physical": {
+      "weight_g": 227,
+      "thickness_mm": 8.7,
+      "materials": {
+        "front": null,
+        "back": null,
+        "frame": null
+      },
+      "sim": {
+        "nano": true,
+        "esim": false,
+        "max_active": 1
+      },
+      "ip_rating": "IP68",
+      "has_3_5mm_jack": false,
+      "loudspeaker_type": "stereo",
+      "fingerprint_location": "under display",
+      "is_ultrasonic_fingerprint": true
+    },
+    "connectivity": {
+      "wifi": {
+        "standard": "802.11 a/b/g/n/ac/6/7",
+        "generation": "WiFi 7",
+        "features": [
+          "dual-band",
+          "wifi-direct"
+        ]
+      },
+      "bluetooth": {
+        "version": "5.4",
+        "features": [
+          "A2DP",
+          "LE",
+          "aptX",
+          "aptX HD",
+          "aptX Adaptive",
+          "aptX Lossless",
+          "LHDC"
+        ]
+      },
+      "has_nfc": true,
+      "has_ir": true,
+      "has_5g": true
+    },
+    "camera": {
+      "rear": {
+        "lenses": [
+          {
+            "type": "wide",
+            "mp": 50,
+            "sensor_size": "1/1.56",
+            "aperture": "f/1.9",
+            "focal_length_mm": 23,
+            "pixel_size_um": 1.0
+          },
+          {
+            "type": "periscope_telephoto",
+            "mp": 50,
+            "sensor_size": "1/1.95",
+            "aperture": "f/2.7",
+            "focal_length_mm": 85,
+            "pixel_size_um": 0.8
+          },
+          {
+            "type": "ultrawide",
+            "mp": 50,
+            "sensor_size": "1/2.76",
+            "aperture": "f/2.1",
+            "focal_length_mm": 15,
+            "pixel_size_um": 0.64
+          }
+        ],
+        "max_video_resolution": "8K",
+        "max_fps_4k": 60,
+        "has_hdr_video": true
+      },
+      "selfie": {
+        "mp": 32,
+        "aperture": "f/2.2",
+        "focal_length_mm": 21,
+        "lens_type": "wide",
+        "has_pdaf": false,
+        "has_3d_sensor": false,
+        "max_video_resolution": "4K",
+        "max_fps_4k": 60,
+        "has_hdr_video": true
+      },
+      "ois": true,
+      "pdaf": true
+    },
+    "software": {
+      "launch_android_version": "Android 16",
+      "major_android_updates_years": 5,
+      "reliable_upto": "2030, February 06"
+    },
+    "filter": {
+      "release_year": 2026,
+      "release_month": 2,
+      "release_ts": 1770336000,
+      "price_min_inr": null,
+      "price_max_inr": null,
+      "price_available_variant_count": 0,
+      "has_price_data": false,
+      "ram_options_gb": [
+        16,
+        24
+      ],
+      "storage_options_gb": [
+        256,
+        512,
+        1024
+      ],
+      "sim": {
+        "has_esim": false,
+        "has_dual_sim": false,
+        "sim_count_max": 1
+      },
+      "display_ppi": 508.0,
+      "is_ltpo": false,
+      "is_foldable": false,
+      "water_resistance": {
+        "level": 68,
+        "derived": true
+      },
+      "water_resistance_level": 68
+    },
+    "source": {
+      "spec_url": "https://www.gsmarena.com/vivo_iqoo_15_ultra_5g-14445.php",
+      "price_url": "https://www.gsmarena.com/vivo_iqoo_15_ultra_5g-price-14445.php"
+    },
+    "scores": {
+      "gaming": 100,
+      "camera": 92,
+      "display": 93,
+      "battery": 60,
+      "scoring_version": 5
+    },
+    "tags": {
+      "can_game": true,
+      "good_camera": true,
+      "good_display": true,
+      "good_battery": true
+    },
+    "parse_quality": {
+      "missing_fields": [],
+      "missing_fields_count": 0
+    },
+    "schema_version": 2,
+    "scraped_at": "2026-03-11T08:55:36.800486+00:00",
+    "spec_last_verified_at": "2026-03-11T08:55:36.800486+00:00",
+    "spec_hash": "1b43b4d0576ae02533e8dc7dbc05b844",
+    "price_hash": "a3108c7cd50dabaa36c71d5ad5fec4de"
+  },
+  {
+    "device_type": "phone",
+    "brand": "vivo",
+    "model_name": "vivo X200T",
+    "status": "available",
+    "release_date": "2026, February 03",
+    "release_date_iso": "2026-02-03",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/vivo-x200-t.jpg",
+    "performance": {
+      "chipset": "Mediatek Dimensity 9400+ (3 nm)",
+      "cpu": "Octa-core (1x3.63 GHz Cortex-X925 & 3x3.3 GHz Cortex-X4 & 4x2.4 GHz Cortex-A720)",
+      "gpu": "Immortalis-G925",
+      "process_node_nm": 3.0,
+      "chipset_tier": "ultimate",
+      "gpu_tier": "ultimate"
+    },
+    "memory": {
+      "storage_type": "UFS 4.1",
+      "expandable": false
+    },
+    "variants": [
+      {
+        "storage_gb": 256,
+        "ram_gb": 12,
+        "price_inr": null,
+        "price_last_checked_at": null,
+        "price_source": null,
+        "price_url": null
+      },
+      {
+        "storage_gb": 512,
+        "ram_gb": 12,
+        "price_inr": null,
+        "price_last_checked_at": null,
+        "price_source": null,
+        "price_url": null
+      }
+    ],
+    "display": {
+      "size_inches": 6.67,
+      "resolution_width": 1260,
+      "resolution_height": 2800,
+      "refresh_rate_hz": 120,
+      "panel_type": "AMOLED",
+      "typical_nits": null,
+      "hbm_nits": 1600,
+      "peak_nits": 5000,
+      "supports_hdr10": true,
+      "supports_hdr10_plus": true,
+      "supports_dolby_vision": false,
+      "protection": "Schott Xensation Core"
+    },
+    "battery": {
+      "capacity_mah": 6200,
+      "active_use_hours": 17.06,
+      "endurance_hours": null,
+      "charging": {
+        "type": null,
+        "advertised": null,
+        "estimated_watt": 90
+      },
+      "wireless_charging_watt": 40,
+      "reverse_charging_watt": 40.0,
+      "reverse_charging_supported": true
+    },
+    "physical": {
+      "weight_g": 203,
+      "thickness_mm": 8.0,
+      "materials": {
+        "front": "Glass",
+        "back": "glass",
+        "frame": "aluminum alloy"
+      },
+      "sim": {
+        "nano": true,
+        "esim": true,
+        "max_active": 2
+      },
+      "ip_rating": "IP68",
+      "has_3_5mm_jack": false,
+      "loudspeaker_type": "stereo",
+      "fingerprint_location": "under display",
+      "is_ultrasonic_fingerprint": true
+    },
+    "connectivity": {
+      "wifi": {
+        "standard": "802.11 a/b/g/n/ac/6/7",
+        "generation": "WiFi 7",
+        "features": [
+          "dual-band"
+        ]
+      },
+      "bluetooth": {
+        "version": "5.4",
+        "features": [
+          "A2DP",
+          "LE",
+          "aptX",
+          "aptX HD",
+          "LHDC"
+        ]
+      },
+      "has_nfc": true,
+      "has_ir": true,
+      "has_5g": true
+    },
+    "camera": {
+      "rear": {
+        "lenses": [
+          {
+            "type": "wide",
+            "mp": 50,
+            "sensor_size": "1/1.56",
+            "aperture": "f/1.6",
+            "focal_length_mm": 23,
+            "pixel_size_um": 1.0
+          },
+          {
+            "type": "periscope_telephoto",
+            "mp": 50,
+            "sensor_size": "1/1.95",
+            "aperture": "f/2.6",
+            "focal_length_mm": 70,
+            "pixel_size_um": 0.8
+          },
+          {
+            "type": "ultrawide",
+            "mp": 50,
+            "sensor_size": "1/2.76",
+            "aperture": "f/2.0",
+            "focal_length_mm": 15,
+            "pixel_size_um": 0.64
+          }
+        ],
+        "max_video_resolution": "4K",
+        "max_fps_4k": 60,
+        "has_hdr_video": true
+      },
+      "selfie": {
+        "mp": 32,
+        "aperture": "f/2.0",
+        "focal_length_mm": 20,
+        "lens_type": "ultrawide",
+        "has_pdaf": false,
+        "has_3d_sensor": false,
+        "max_video_resolution": "4K",
+        "max_fps_4k": 60,
+        "has_hdr_video": true
+      },
+      "ois": true,
+      "pdaf": true
+    },
+    "software": {
+      "launch_android_version": "Android 16",
+      "major_android_updates_years": 5,
+      "reliable_upto": "2030, February 03"
+    },
+    "filter": {
+      "release_year": 2026,
+      "release_month": 2,
+      "release_ts": 1770076800,
+      "price_min_inr": null,
+      "price_max_inr": null,
+      "price_available_variant_count": 0,
+      "has_price_data": false,
+      "ram_options_gb": [
+        12
+      ],
+      "storage_options_gb": [
+        256,
+        512
+      ],
+      "sim": {
+        "has_esim": true,
+        "has_dual_sim": true,
+        "sim_count_max": 2
+      },
+      "display_ppi": 460.3,
+      "is_ltpo": false,
+      "is_foldable": false,
+      "water_resistance": {
+        "level": 68,
+        "derived": true
+      },
+      "water_resistance_level": 68
+    },
+    "source": {
+      "spec_url": "https://www.gsmarena.com/vivo_x200t_5g-14366.php",
+      "price_url": "https://www.gsmarena.com/vivo_x200t_5g-price-14366.php"
+    },
+    "scores": {
+      "gaming": 100,
+      "camera": 92,
+      "display": 83,
+      "battery": 65,
+      "scoring_version": 5
+    },
+    "tags": {
+      "can_game": true,
+      "good_camera": true,
+      "good_display": true,
+      "good_battery": true
+    },
+    "parse_quality": {
+      "missing_fields": [],
+      "missing_fields_count": 0
+    },
+    "schema_version": 2,
+    "scraped_at": "2026-03-11T08:56:16.939869+00:00",
+    "spec_last_verified_at": "2026-03-11T08:56:16.939869+00:00",
+    "spec_hash": "c804662dcc040210f61737a8d5b91cf1",
+    "price_hash": "fb24a5208d8fb851467fa5998ec2a842"
+  },
+  {
+    "device_type": "phone",
+    "brand": "Lava",
+    "model_name": "Lava Agni 4",
+    "status": "available",
+    "release_date": "2025, November 25",
+    "release_date_iso": "2025-11-25",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/lava-agni4.jpg",
+    "performance": {
+      "chipset": "Mediatek Dimensity 8350 (4 nm)",
+      "cpu": "Octa-core (1x3.35 GHz Cortex-A715 & 3x3.20 GHz Cortex-A715 & 4x2.20 GHz Cortex-A510)",
+      "gpu": "Mali G615-MC6",
+      "process_node_nm": 4.0,
+      "chipset_tier": "midrange",
+      "gpu_tier": "midrange"
+    },
+    "memory": {
+      "storage_type": "UFS 4.0",
+      "expandable": false
+    },
+    "variants": [
+      {
+        "storage_gb": 256,
+        "ram_gb": 8,
+        "price_inr": 24999,
+        "price_last_checked_at": "2026-03-11T08:56:52.301550+00:00",
+        "price_source": "Amazon",
+        "price_url": "https://www.amazon.in/dp/B0FT3J2W97"
+      }
+    ],
+    "display": {
+      "size_inches": 6.67,
+      "resolution_width": 1220,
+      "resolution_height": 2712,
+      "refresh_rate_hz": 120,
+      "panel_type": "AMOLED",
+      "typical_nits": null,
+      "hbm_nits": null,
+      "peak_nits": 2400,
+      "supports_hdr10": false,
+      "supports_hdr10_plus": false,
+      "supports_dolby_vision": false,
+      "protection": "Corning Gorilla Glass 5"
+    },
+    "battery": {
+      "capacity_mah": 5000,
+      "active_use_hours": 12.31,
+      "endurance_hours": null,
+      "charging": {
+        "type": null,
+        "advertised": "50% in 19 min; 100% in 51 min",
+        "estimated_watt": 66
+      },
+      "wireless_charging_watt": null,
+      "reverse_charging_watt": null,
+      "reverse_charging_supported": false
+    },
+    "physical": {
+      "weight_g": 208,
+      "thickness_mm": 8.6,
+      "materials": {
+        "front": "Gorilla Glass 5",
+        "back": null,
+        "frame": "aluminum"
+      },
+      "sim": {
+        "nano": true,
+        "esim": false,
+        "max_active": 1
+      },
+      "ip_rating": "IP64",
+      "has_3_5mm_jack": false,
+      "loudspeaker_type": "stereo",
+      "fingerprint_location": "under display",
+      "is_ultrasonic_fingerprint": false
+    },
+    "connectivity": {
+      "wifi": {
+        "standard": "802.11 a/b/g/n/ac/6e",
+        "generation": "WiFi 6E",
+        "features": [
+          "dual-band"
+        ]
+      },
+      "bluetooth": {
+        "version": "5.4",
+        "features": [
+          "A2DP",
+          "LE"
+        ]
+      },
+      "has_nfc": false,
+      "has_ir": true,
+      "has_5g": true
+    },
+    "camera": {
+      "rear": {
+        "lenses": [
+          {
+            "type": "wide",
+            "mp": 50,
+            "sensor_size": "1/1.55",
+            "aperture": "f/1.9",
+            "focal_length_mm": null,
+            "pixel_size_um": 1.0
+          },
+          {
+            "type": "ultrawide",
+            "mp": 8,
+            "sensor_size": null,
+            "aperture": null,
+            "focal_length_mm": null,
+            "pixel_size_um": null
+          }
+        ],
+        "max_video_resolution": "4K",
+        "max_fps_4k": 60,
+        "has_hdr_video": true
+      },
+      "selfie": {
+        "mp": 50,
+        "aperture": null,
+        "focal_length_mm": null,
+        "lens_type": "wide",
+        "has_pdaf": false,
+        "has_3d_sensor": false,
+        "max_video_resolution": "4K",
+        "max_fps_4k": 60,
+        "has_hdr_video": false
+      },
+      "ois": true,
+      "pdaf": true
+    },
+    "software": {
+      "launch_android_version": "Android 15",
+      "major_android_updates_years": 3,
+      "reliable_upto": "2027, November 25"
+    },
+    "filter": {
+      "release_year": 2025,
+      "release_month": 11,
+      "release_ts": 1764028800,
+      "price_min_inr": 24999,
+      "price_max_inr": 24999,
+      "price_available_variant_count": 1,
+      "has_price_data": true,
+      "ram_options_gb": [
+        8
+      ],
+      "storage_options_gb": [
+        256
+      ],
+      "sim": {
+        "has_esim": false,
+        "has_dual_sim": false,
+        "sim_count_max": 1
+      },
+      "display_ppi": 445.8,
+      "is_ltpo": false,
+      "is_foldable": false,
+      "water_resistance": {
+        "level": 64,
+        "derived": true
+      },
+      "water_resistance_level": 64
+    },
+    "source": {
+      "spec_url": "https://www.gsmarena.com/lava_agni_4_5g-14304.php",
+      "price_url": "https://www.gsmarena.com/lava_agni_4_5g-price-14304.php"
+    },
+    "scores": {
+      "gaming": 69,
+      "camera": 64,
+      "display": 61,
+      "battery": 37,
+      "scoring_version": 5
+    },
+    "tags": {
+      "can_game": false,
+      "good_camera": false,
+      "good_display": false,
+      "good_battery": false
+    },
+    "parse_quality": {
+      "missing_fields": [],
+      "missing_fields_count": 0
+    },
+    "schema_version": 2,
+    "scraped_at": "2026-03-11T08:56:52.301550+00:00",
+    "spec_last_verified_at": "2026-03-11T08:56:52.301550+00:00",
+    "spec_hash": "2664ae307189b0a4db667cdc1c30e056",
+    "price_hash": "bdef229792428414540e0005453dec0d"
+  },
+  {
+    "device_type": "phone",
+    "brand": "Nothing",
+    "model_name": "Nothing Phone (3a) Lite",
+    "status": "available",
+    "release_date": "2025, October 29",
+    "release_date_iso": "2025-10-29",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/nothing-phone-3a-lite.jpg",
+    "performance": {
+      "chipset": "Mediatek Dimensity 7300 Pro (4 nm)",
+      "cpu": "Octa-core (4x2.5 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55)",
+      "gpu": "Mali-G615 MC2",
+      "process_node_nm": 4.0,
+      "benchmarks": {
+        "antutu": 691743,
+        "geekbench": 2996,
+        "gfxbench": null
+      },
+      "chipset_tier": "midrange",
+      "gpu_tier": "upper_mid"
+    },
+    "memory": {
+      "storage_type": "UFS 2.2",
+      "expandable": true
+    },
+    "variants": [
+      {
+        "storage_gb": 128,
+        "ram_gb": 8,
+        "price_inr": 20688,
+        "price_last_checked_at": "2026-03-11T08:57:23.985490+00:00",
+        "price_source": "Amazon",
+        "price_url": "https://www.amazon.in/dp/B0G47YZJH6"
+      },
+      {
+        "storage_gb": 256,
+        "ram_gb": 8,
+        "price_inr": 23598,
+        "price_last_checked_at": "2026-03-11T08:57:23.985490+00:00",
+        "price_source": "Amazon",
+        "price_url": "https://www.amazon.in/dp/B0G47YZJH6"
+      }
+    ],
+    "display": {
+      "size_inches": 6.77,
+      "resolution_width": 1080,
+      "resolution_height": 2392,
+      "refresh_rate_hz": 120,
+      "panel_type": "AMOLED",
+      "typical_nits": 800,
+      "hbm_nits": 1300,
+      "peak_nits": 3000,
+      "supports_hdr10": false,
+      "supports_hdr10_plus": false,
+      "supports_dolby_vision": false,
+      "protection": "Panda Glass"
+    },
+    "battery": {
+      "capacity_mah": 5000,
+      "active_use_hours": 15.12,
+      "endurance_hours": null,
+      "charging": {
+        "type": null,
+        "advertised": "50% in 20 min",
+        "estimated_watt": 33
+      },
+      "wireless_charging_watt": null,
+      "reverse_charging_watt": 5.0,
+      "reverse_charging_supported": true
+    },
+    "physical": {
+      "weight_g": 199,
+      "thickness_mm": 8.3,
+      "materials": {
+        "front": "Panda Glass",
+        "back": "Panda Glass",
+        "frame": "plastic"
+      },
+      "sim": {
+        "nano": true,
+        "esim": false,
+        "max_active": 1
+      },
+      "ip_rating": "IP54",
+      "has_3_5mm_jack": false,
+      "loudspeaker_type": "mono",
+      "fingerprint_location": "under display",
+      "is_ultrasonic_fingerprint": false
+    },
+    "connectivity": {
+      "wifi": {
+        "standard": "802.11 a/b/g/n/ac/6",
+        "generation": "WiFi 6",
+        "features": [
+          "dual-band",
+          "wifi-direct"
+        ]
+      },
+      "bluetooth": {
+        "version": "5.3",
+        "features": [
+          "A2DP",
+          "LE"
+        ]
+      },
+      "has_nfc": true,
+      "has_ir": false,
+      "has_5g": true
+    },
+    "camera": {
+      "rear": {
+        "lenses": [
+          {
+            "type": "wide",
+            "mp": 50,
+            "sensor_size": "1/1.57",
+            "aperture": "f/1.9",
+            "focal_length_mm": 24,
+            "pixel_size_um": 1.0
+          },
+          {
+            "type": "ultrawide",
+            "mp": 8,
+            "sensor_size": "1/4.0",
+            "aperture": "f/2.2",
+            "focal_length_mm": 15,
+            "pixel_size_um": 1.12
+          },
+          {
+            "type": "macro",
+            "mp": 2,
+            "sensor_size": null,
+            "aperture": null,
+            "focal_length_mm": null,
+            "pixel_size_um": null
+          }
+        ],
+        "max_video_resolution": "4K",
+        "max_fps_4k": 30,
+        "has_hdr_video": true
+      },
+      "selfie": {
+        "mp": 16,
+        "aperture": "f/2.5",
+        "focal_length_mm": 24,
+        "lens_type": "wide",
+        "has_pdaf": false,
+        "has_3d_sensor": false,
+        "max_video_resolution": "1080P",
+        "max_fps_4k": null,
+        "has_hdr_video": false
+      },
+      "ois": true,
+      "pdaf": true
+    },
+    "software": {
+      "launch_android_version": "Android 15",
+      "major_android_updates_years": 3,
+      "reliable_upto": "2027, October 29"
+    },
+    "filter": {
+      "release_year": 2025,
+      "release_month": 10,
+      "release_ts": 1761696000,
+      "price_min_inr": 20688,
+      "price_max_inr": 23598,
+      "price_available_variant_count": 2,
+      "has_price_data": true,
+      "ram_options_gb": [
+        8
+      ],
+      "storage_options_gb": [
+        128,
+        256
+      ],
+      "sim": {
+        "has_esim": false,
+        "has_dual_sim": false,
+        "sim_count_max": 1
+      },
+      "display_ppi": 387.7,
+      "is_ltpo": false,
+      "is_foldable": false,
+      "water_resistance": {
+        "level": 54,
+        "derived": true
+      },
+      "water_resistance_level": 54
+    },
+    "source": {
+      "spec_url": "https://www.gsmarena.com/nothing_phone_(3a)_lite_5g-14267.php",
+      "price_url": "https://www.gsmarena.com/nothing_phone_(3a)_lite_5g-price-14267.php"
+    },
+    "scores": {
+      "gaming": 70,
+      "camera": 70,
+      "display": 62,
+      "battery": 37,
+      "scoring_version": 5
+    },
+    "tags": {
+      "can_game": true,
+      "good_camera": true,
+      "good_display": false,
+      "good_battery": false
+    },
+    "parse_quality": {
+      "missing_fields": [],
+      "missing_fields_count": 0
+    },
+    "schema_version": 2,
+    "scraped_at": "2026-03-11T08:57:23.985490+00:00",
+    "spec_last_verified_at": "2026-03-11T08:57:23.985490+00:00",
+    "spec_hash": "e211959459dce36d05db063f472ff00d",
+    "price_hash": "e9a89521a8cdb882c165ad46bf7bc14c"
+  },
+  {
+    "device_type": "phone",
+    "brand": "Samsung",
+    "model_name": "Samsung Galaxy A15",
+    "status": "available",
+    "release_date": "2023, December 16",
+    "release_date_iso": "2023-12-16",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a15-lte.jpg",
+    "performance": {
+      "chipset": "Mediatek Helio G99 (6 nm)",
+      "cpu": "Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+      "gpu": "Mali-G57 MC2",
+      "process_node_nm": 6.0,
+      "benchmarks": {
+        "antutu": 316967,
+        "geekbench": 1928,
+        "gfxbench": null
+      },
+      "chipset_tier": "midrange",
+      "gpu_tier": "midrange"
+    },
+    "memory": {
+      "storage_type": "UFS",
+      "expandable": true
+    },
+    "variants": [
+      {
+        "storage_gb": 128,
+        "ram_gb": 4,
+        "price_inr": null,
+        "price_last_checked_at": null,
+        "price_source": null,
+        "price_url": null
+      },
+      {
+        "storage_gb": 128,
+        "ram_gb": 6,
+        "price_inr": null,
+        "price_last_checked_at": null,
+        "price_source": null,
+        "price_url": null
+      },
+      {
+        "storage_gb": 128,
+        "ram_gb": 8,
+        "price_inr": null,
+        "price_last_checked_at": null,
+        "price_source": null,
+        "price_url": null
+      },
+      {
+        "storage_gb": 256,
+        "ram_gb": 6,
+        "price_inr": null,
+        "price_last_checked_at": null,
+        "price_source": null,
+        "price_url": null
+      },
+      {
+        "storage_gb": 256,
+        "ram_gb": 8,
+        "price_inr": null,
+        "price_last_checked_at": null,
+        "price_source": null,
+        "price_url": null
+      }
+    ],
+    "display": {
+      "size_inches": 6.5,
+      "resolution_width": 1080,
+      "resolution_height": 2340,
+      "refresh_rate_hz": 90,
+      "panel_type": "Super AMOLED",
+      "typical_nits": null,
+      "hbm_nits": 800,
+      "peak_nits": 800,
+      "supports_hdr10": false,
+      "supports_hdr10_plus": false,
+      "supports_dolby_vision": false,
+      "protection": null
+    },
+    "battery": {
+      "capacity_mah": 5000,
+      "active_use_hours": 15.47,
+      "endurance_hours": null,
+      "charging": {
+        "type": null,
+        "advertised": null,
+        "estimated_watt": 25
+      },
+      "wireless_charging_watt": null,
+      "reverse_charging_watt": null,
+      "reverse_charging_supported": false
+    },
+    "physical": {
+      "weight_g": 200,
+      "thickness_mm": 8.4,
+      "materials": {
+        "front": "Glass",
+        "back": "plastic",
+        "frame": "plastic"
+      },
+      "sim": {
+        "nano": true,
+        "esim": false,
+        "max_active": 1
+      },
+      "ip_rating": null,
+      "has_3_5mm_jack": true,
+      "loudspeaker_type": "mono",
+      "fingerprint_location": "side-mounted",
+      "is_ultrasonic_fingerprint": false
+    },
+    "connectivity": {
+      "wifi": {
+        "standard": "802.11 a/b/g/n/ac",
+        "generation": "WiFi 5",
+        "features": [
+          "dual-band",
+          "wifi-direct"
+        ]
+      },
+      "bluetooth": {
+        "version": "5.3",
+        "features": [
+          "A2DP",
+          "LE"
+        ]
+      },
+      "has_nfc": true,
+      "has_ir": false,
+      "has_5g": false
+    },
+    "camera": {
+      "rear": {
+        "lenses": [
+          {
+            "type": "wide",
+            "mp": 50,
+            "sensor_size": "1/2.8",
+            "aperture": "f/1.8",
+            "focal_length_mm": 26,
+            "pixel_size_um": 0.64
+          },
+          {
+            "type": "ultrawide",
+            "mp": 5,
+            "sensor_size": "1/5.0",
+            "aperture": "f/2.2",
+            "focal_length_mm": 17,
+            "pixel_size_um": 1.12
+          },
+          {
+            "type": "macro",
+            "mp": 2,
+            "sensor_size": null,
+            "aperture": null,
+            "focal_length_mm": null,
+            "pixel_size_um": null
+          }
+        ],
+        "max_video_resolution": "1080P",
+        "max_fps_4k": null,
+        "has_hdr_video": true
+      },
+      "selfie": {
+        "mp": 13,
+        "aperture": "f/2.0",
+        "focal_length_mm": 26,
+        "lens_type": "wide",
+        "has_pdaf": false,
+        "has_3d_sensor": false,
+        "max_video_resolution": "1080P",
+        "max_fps_4k": null,
+        "has_hdr_video": false
+      },
+      "ois": false,
+      "pdaf": true
+    },
+    "software": {
+      "launch_android_version": "Android 14",
+      "major_android_updates_years": 4,
+      "reliable_upto": "2026, December 16"
+    },
+    "filter": {
+      "release_year": 2023,
+      "release_month": 12,
+      "release_ts": 1702684800,
+      "price_min_inr": null,
+      "price_max_inr": null,
+      "price_available_variant_count": 0,
+      "has_price_data": false,
+      "ram_options_gb": [
+        4,
+        6,
+        8
+      ],
+      "storage_options_gb": [
+        128,
+        256
+      ],
+      "sim": {
+        "has_esim": false,
+        "has_dual_sim": false,
+        "sim_count_max": 1
+      },
+      "display_ppi": 396.5,
+      "is_ltpo": false,
+      "is_foldable": false,
+      "water_resistance": {
+        "level": null,
+        "derived": true
+      },
+      "water_resistance_level": null
+    },
+    "source": {
+      "spec_url": "https://www.gsmarena.com/samsung_galaxy_a15-12637.php",
+      "price_url": "https://www.gsmarena.com/samsung_galaxy_a15-price-12637.php"
+    },
+    "scores": {
+      "gaming": 58,
+      "camera": 42,
+      "display": 35,
+      "battery": 32,
+      "scoring_version": 5
+    },
+    "tags": {
+      "can_game": false,
+      "good_camera": false,
+      "good_display": false,
+      "good_battery": false
+    },
+    "parse_quality": {
+      "missing_fields": [
+        "physical.ip_rating",
+        "camera.rear.max_fps_4k"
+      ],
+      "missing_fields_count": 2
+    },
+    "schema_version": 2,
+    "scraped_at": "2026-03-11T08:58:04.284691+00:00",
+    "spec_last_verified_at": "2026-03-11T08:58:04.284691+00:00",
+    "spec_hash": "0cbb25b356344dc893237e1816f9ac20",
+    "price_hash": "a40f7d889f11797efe2d148043ce455d"
+  },
+  {
+    "device_type": "phone",
+    "brand": "Xiaomi",
+    "model_name": "Xiaomi Redmi 13x",
+    "status": "available",
+    "release_date": "2025, March 28",
+    "release_date_iso": "2025-03-28",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-13x-4g.jpg",
+    "performance": {
+      "chipset": "Mediatek Helio G91 Ultra (12 nm)",
+      "cpu": "Octa-core (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55)",
+      "gpu": "Mali-G52 MC2",
+      "process_node_nm": 12.0,
+      "chipset_tier": "midrange",
+      "gpu_tier": "midrange"
+    },
+    "memory": {
+      "storage_type": "eMMC 5.1",
+      "expandable": true
+    },
+    "variants": [
+      {
+        "storage_gb": 128,
+        "ram_gb": 6,
+        "price_inr": null,
+        "price_last_checked_at": null,
+        "price_source": null,
+        "price_url": null
+      },
+      {
+        "storage_gb": 128,
+        "ram_gb": 8,
+        "price_inr": null,
+        "price_last_checked_at": null,
+        "price_source": null,
+        "price_url": null
+      },
+      {
+        "storage_gb": 256,
+        "ram_gb": 8,
+        "price_inr": null,
+        "price_last_checked_at": null,
+        "price_source": null,
+        "price_url": null
+      }
+    ],
+    "display": {
+      "size_inches": 6.79,
+      "resolution_width": 1080,
+      "resolution_height": 2460,
+      "refresh_rate_hz": 90,
+      "panel_type": "IPS LCD",
+      "typical_nits": null,
+      "hbm_nits": 550,
+      "peak_nits": 550,
+      "supports_hdr10": false,
+      "supports_hdr10_plus": false,
+      "supports_dolby_vision": false,
+      "protection": "Corning Gorilla Glass"
+    },
+    "battery": {
+      "capacity_mah": 5030,
+      "active_use_hours": 11.59,
+      "endurance_hours": null,
+      "charging": {
+        "type": null,
+        "advertised": null,
+        "estimated_watt": 33
+      },
+      "wireless_charging_watt": null,
+      "reverse_charging_watt": null,
+      "reverse_charging_supported": false
+    },
+    "physical": {
+      "weight_g": 205,
+      "thickness_mm": 8.3,
+      "materials": {
+        "front": "Glass",
+        "back": "glass",
+        "frame": "plastic"
+      },
+      "sim": {
+        "nano": true,
+        "esim": false,
+        "max_active": 1
+      },
+      "ip_rating": "IP53",
+      "has_3_5mm_jack": true,
+      "loudspeaker_type": "mono",
+      "fingerprint_location": "side-mounted",
+      "is_ultrasonic_fingerprint": false
+    },
+    "connectivity": {
+      "wifi": {
+        "standard": "802.11 a/b/g/n/ac",
+        "generation": "WiFi 5",
+        "features": [
+          "dual-band"
+        ]
+      },
+      "bluetooth": {
+        "version": "5.4",
+        "features": [
+          "A2DP",
+          "LE"
+        ]
+      },
+      "has_nfc": true,
+      "has_ir": true,
+      "has_5g": false
+    },
+    "camera": {
+      "rear": {
+        "lenses": [
+          {
+            "type": "wide",
+            "mp": 108,
+            "sensor_size": "1/1.67",
+            "aperture": "f/1.8",
+            "focal_length_mm": null,
+            "pixel_size_um": 0.64
+          },
+          {
+            "type": "macro",
+            "mp": 2,
+            "sensor_size": null,
+            "aperture": null,
+            "focal_length_mm": null,
+            "pixel_size_um": null
+          }
+        ],
+        "max_video_resolution": "1080P",
+        "max_fps_4k": null,
+        "has_hdr_video": true
+      },
+      "selfie": {
+        "mp": 13,
+        "aperture": "f/2.5",
+        "focal_length_mm": null,
+        "lens_type": "wide",
+        "has_pdaf": false,
+        "has_3d_sensor": false,
+        "max_video_resolution": "1080P",
+        "max_fps_4k": null,
+        "has_hdr_video": true
+      },
+      "ois": false,
+      "pdaf": true
+    },
+    "software": {
+      "launch_android_version": "Android 14",
+      "major_android_updates_years": 5,
+      "reliable_upto": "2029, March 28"
+    },
+    "filter": {
+      "release_year": 2025,
+      "release_month": 3,
+      "release_ts": 1743120000,
+      "price_min_inr": null,
+      "price_max_inr": null,
+      "price_available_variant_count": 0,
+      "has_price_data": false,
+      "ram_options_gb": [
+        6,
+        8
+      ],
+      "storage_options_gb": [
+        128,
+        256
+      ],
+      "sim": {
+        "has_esim": false,
+        "has_dual_sim": false,
+        "sim_count_max": 1
+      },
+      "display_ppi": 395.7,
+      "is_ltpo": false,
+      "is_foldable": false,
+      "water_resistance": {
+        "level": 53,
+        "derived": true
+      },
+      "water_resistance_level": 53
+    },
+    "source": {
+      "spec_url": "https://www.gsmarena.com/xiaomi_redmi_13x_4g-13764.php",
+      "price_url": "https://www.gsmarena.com/xiaomi_redmi_13x_4g-price-13764.php"
+    },
+    "scores": {
+      "gaming": 52,
+      "camera": 46,
+      "display": 26,
+      "battery": 28,
+      "scoring_version": 5
+    },
+    "tags": {
+      "can_game": false,
+      "good_camera": false,
+      "good_display": false,
+      "good_battery": false
+    },
+    "parse_quality": {
+      "missing_fields": [
+        "camera.rear.max_fps_4k"
+      ],
+      "missing_fields_count": 1
+    },
+    "schema_version": 2,
+    "scraped_at": "2026-03-11T08:58:44.271256+00:00",
+    "spec_last_verified_at": "2026-03-11T08:58:44.271256+00:00",
+    "spec_hash": "70137d1dbd56ebcafff68f449562c772",
+    "price_hash": "2532e7719e9a0f9c2e36dc1aff4e3b37"
+  },
+  {
+    "device_type": "tablet",
+    "brand": "Honor",
+    "model_name": "Honor MagicPad 13",
+    "status": "available",
+    "release_date": "2023, July 20",
+    "release_date_iso": "2023-07-20",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-magicpad13.jpg",
+    "performance": {
+      "chipset": "Qualcomm SM8350 Snapdragon 888 5G (5 nm)",
+      "cpu": "Octa-core (1x2.84 GHz Cortex-X1 & 3x2.42 GHz Cortex-A78 & 4x1.80 GHz Cortex-A55)",
+      "gpu": "Adreno 660",
+      "process_node_nm": 5.0,
+      "chipset_tier": "flagship",
+      "gpu_tier": "midrange"
+    },
+    "memory": {
+      "storage_type": "UFS 4.0",
+      "expandable": false
+    },
+    "variants": [
+      {
+        "storage_gb": 256,
+        "ram_gb": 8,
+        "price_inr": null,
+        "price_last_checked_at": null,
+        "price_source": null,
+        "price_url": null
+      },
+      {
+        "storage_gb": 256,
+        "ram_gb": 12,
+        "price_inr": null,
+        "price_last_checked_at": null,
+        "price_source": null,
+        "price_url": null
+      },
+      {
+        "storage_gb": 512,
+        "ram_gb": 16,
+        "price_inr": null,
+        "price_last_checked_at": null,
+        "price_source": null,
+        "price_url": null
+      }
+    ],
+    "display": {
+      "size_inches": 13.0,
+      "resolution_width": 1840,
+      "resolution_height": 2880,
+      "refresh_rate_hz": 144,
+      "panel_type": "TFT LCD",
+      "typical_nits": null,
+      "hbm_nits": 700,
+      "peak_nits": 700,
+      "supports_hdr10": true,
+      "supports_hdr10_plus": false,
+      "supports_dolby_vision": false,
+      "protection": null
+    },
+    "battery": {
+      "capacity_mah": 10050,
+      "active_use_hours": 16.13,
+      "endurance_hours": null,
+      "charging": {
+        "type": null,
+        "advertised": null,
+        "estimated_watt": 66
+      },
+      "wireless_charging_watt": null,
+      "reverse_charging_watt": 5.0,
+      "reverse_charging_supported": true
+    },
+    "physical": {
+      "weight_g": 660,
+      "thickness_mm": 6.5,
+      "materials": {
+        "front": null,
+        "back": null,
+        "frame": null
+      },
+      "sim": {
+        "nano": false,
+        "esim": false,
+        "max_active": null
+      },
+      "ip_rating": null,
+      "has_3_5mm_jack": false,
+      "loudspeaker_type": "stereo",
+      "fingerprint_location": null,
+      "is_ultrasonic_fingerprint": false
+    },
+    "connectivity": {
+      "wifi": {
+        "standard": "802.11 a/b/g/n/ac/6",
+        "generation": "WiFi 6",
+        "features": [
+          "dual-band"
+        ]
+      },
+      "bluetooth": {
+        "version": "5.2",
+        "features": [
+          "A2DP",
+          "LE"
+        ]
+      },
+      "has_nfc": false,
+      "has_ir": false,
+      "has_5g": false
+    },
+    "camera": {
+      "rear": {
+        "lenses": [
+          {
+            "type": "unknown",
+            "mp": 13,
+            "sensor_size": null,
+            "aperture": "f/2.0",
+            "focal_length_mm": null,
+            "pixel_size_um": null
+          }
+        ],
+        "max_video_resolution": "4K",
+        "max_fps_4k": 30,
+        "has_hdr_video": true
+      },
+      "selfie": {
+        "mp": 9,
+        "aperture": "f/2.2",
+        "focal_length_mm": null,
+        "lens_type": null,
+        "has_pdaf": false,
+        "has_3d_sensor": false,
+        "max_video_resolution": "1080P",
+        "max_fps_4k": null,
+        "has_hdr_video": false
+      },
+      "ois": false,
+      "pdaf": false
+    },
+    "software": {
+      "launch_android_version": "Android 13",
+      "major_android_updates_years": 5,
+      "reliable_upto": "2027, July 20"
+    },
+    "filter": {
+      "release_year": 2023,
+      "release_month": 7,
+      "release_ts": 1689811200,
+      "price_min_inr": null,
+      "price_max_inr": null,
+      "price_available_variant_count": 0,
+      "has_price_data": false,
+      "ram_options_gb": [
+        8,
+        12,
+        16
+      ],
+      "storage_options_gb": [
+        256,
+        512
+      ],
+      "sim": {
+        "has_esim": false,
+        "has_dual_sim": false,
+        "sim_count_max": null
+      },
+      "display_ppi": 262.9,
+      "is_ltpo": false,
+      "is_foldable": false,
+      "water_resistance": {
+        "level": null,
+        "derived": true
+      },
+      "water_resistance_level": null
+    },
+    "source": {
+      "spec_url": "https://www.gsmarena.com/honor_magicpad_13-12417.php",
+      "price_url": "https://www.gsmarena.com/honor_magicpad_13-price-12417.php"
+    },
+    "scores": {
+      "gaming": 74,
+      "camera": 20,
+      "display": 51,
+      "battery": 50,
+      "scoring_version": 5
+    },
+    "tags": {
+      "can_game": true,
+      "good_camera": false,
+      "good_display": false,
+      "good_battery": true
+    },
+    "parse_quality": {
+      "missing_fields": [
+        "physical.ip_rating"
+      ],
+      "missing_fields_count": 1
+    },
+    "schema_version": 2,
+    "scraped_at": "2026-03-11T08:59:12.667561+00:00",
+    "spec_last_verified_at": "2026-03-11T08:59:12.667561+00:00",
+    "spec_hash": "1c0fcbf506e2148c47213e536d90250e",
+    "price_hash": "2a4663da1ee23df61c99cb031ace2b29"
+  },
+  {
+    "device_type": "tablet",
+    "brand": "Honor",
+    "model_name": "Honor MagicPad 2 12.3",
+    "status": "available",
+    "release_date": "2024, July 19",
+    "release_date_iso": "2024-07-19",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-magicpad-2.jpg",
+    "performance": {
+      "chipset": "Qualcomm SM8635 Snapdragon 8s Gen 3 (4 nm)",
+      "cpu": "Octa-core (1x3.0 GHz Cortex-X4 & 4x2.8 GHz Cortex-A720 & 3x2.0 GHz Cortex-A520)",
+      "gpu": "Adreno 735",
+      "process_node_nm": 4.0,
+      "benchmarks": {
+        "antutu": 1435490,
+        "geekbench": 5049,
+        "gfxbench": null
+      },
+      "chipset_tier": "flagship",
+      "gpu_tier": "upper_mid"
+    },
+    "memory": {
+      "storage_type": "UFS 4.0",
+      "expandable": false
+    },
+    "variants": [
+      {
+        "storage_gb": 256,
+        "ram_gb": 8,
+        "price_inr": null,
+        "price_last_checked_at": null,
+        "price_source": null,
+        "price_url": null
+      },
+      {
+        "storage_gb": 256,
+        "ram_gb": 12,
+        "price_inr": null,
+        "price_last_checked_at": null,
+        "price_source": null,
+        "price_url": null
+      },
+      {
+        "storage_gb": 512,
+        "ram_gb": 16,
+        "price_inr": null,
+        "price_last_checked_at": null,
+        "price_source": null,
+        "price_url": null
+      },
+      {
+        "storage_gb": 1024,
+        "ram_gb": 16,
+        "price_inr": null,
+        "price_last_checked_at": null,
+        "price_source": null,
+        "price_url": null
+      }
+    ],
+    "display": {
+      "size_inches": 12.3,
+      "resolution_width": 1920,
+      "resolution_height": 3000,
+      "refresh_rate_hz": 144,
+      "panel_type": "OLED",
+      "typical_nits": null,
+      "hbm_nits": null,
+      "peak_nits": 1600,
+      "supports_hdr10": true,
+      "supports_hdr10_plus": false,
+      "supports_dolby_vision": false,
+      "protection": null
+    },
+    "battery": {
+      "capacity_mah": 10050,
+      "active_use_hours": 9.7,
+      "endurance_hours": null,
+      "charging": {
+        "type": null,
+        "advertised": null,
+        "estimated_watt": 66
+      },
+      "wireless_charging_watt": null,
+      "reverse_charging_watt": 5.0,
+      "reverse_charging_supported": true
+    },
+    "physical": {
+      "weight_g": 555,
+      "thickness_mm": 5.8,
+      "materials": {
+        "front": null,
+        "back": null,
+        "frame": null
+      },
+      "sim": {
+        "nano": false,
+        "esim": false,
+        "max_active": null
+      },
+      "ip_rating": null,
+      "has_3_5mm_jack": false,
+      "loudspeaker_type": "stereo",
+      "fingerprint_location": null,
+      "is_ultrasonic_fingerprint": false
+    },
+    "connectivity": {
+      "wifi": {
+        "standard": "802.11 a/b/g/n/ac/6",
+        "generation": "WiFi 6",
+        "features": [
+          "dual-band"
+        ]
+      },
+      "bluetooth": {
+        "version": "5.3",
+        "features": [
+          "A2DP",
+          "LE",
+          "aptX",
+          "aptX HD",
+          "LDAC"
+        ]
+      },
+      "has_nfc": false,
+      "has_ir": false,
+      "has_5g": false
+    },
+    "camera": {
+      "rear": {
+        "lenses": [
+          {
+            "type": "unknown",
+            "mp": 13,
+            "sensor_size": null,
+            "aperture": "f/2.0",
+            "focal_length_mm": null,
+            "pixel_size_um": null
+          }
+        ],
+        "max_video_resolution": "4K",
+        "max_fps_4k": 30,
+        "has_hdr_video": true
+      },
+      "selfie": {
+        "mp": 9,
+        "aperture": "f/2.2",
+        "focal_length_mm": null,
+        "lens_type": null,
+        "has_pdaf": false,
+        "has_3d_sensor": false,
+        "max_video_resolution": "1080P",
+        "max_fps_4k": null,
+        "has_hdr_video": false
+      },
+      "ois": false,
+      "pdaf": false
+    },
+    "software": {
+      "launch_android_version": "Android 14",
+      "major_android_updates_years": 5,
+      "reliable_upto": "2028, July 19"
+    },
+    "filter": {
+      "release_year": 2024,
+      "release_month": 7,
+      "release_ts": 1721347200,
+      "price_min_inr": null,
+      "price_max_inr": null,
+      "price_available_variant_count": 0,
+      "has_price_data": false,
+      "ram_options_gb": [
+        8,
+        12,
+        16
+      ],
+      "storage_options_gb": [
+        256,
+        512,
+        1024
+      ],
+      "sim": {
+        "has_esim": false,
+        "has_dual_sim": false,
+        "sim_count_max": null
+      },
+      "display_ppi": 289.6,
+      "is_ltpo": false,
+      "is_foldable": false,
+      "water_resistance": {
+        "level": null,
+        "derived": true
+      },
+      "water_resistance_level": null
+    },
+    "source": {
+      "spec_url": "https://www.gsmarena.com/honor_magicpad_2_12_3-13205.php",
+      "price_url": "https://www.gsmarena.com/honor_magicpad_2_12_3-price-13205.php"
+    },
+    "scores": {
+      "gaming": 76,
+      "camera": 20,
+      "display": 65,
+      "battery": 38,
+      "scoring_version": 5
+    },
+    "tags": {
+      "can_game": true,
+      "good_camera": false,
+      "good_display": false,
+      "good_battery": false
+    },
+    "parse_quality": {
+      "missing_fields": [
+        "physical.ip_rating"
+      ],
+      "missing_fields_count": 1
+    },
+    "schema_version": 2,
+    "scraped_at": "2026-03-11T08:59:51.397814+00:00",
+    "spec_last_verified_at": "2026-03-11T08:59:51.397814+00:00",
+    "spec_hash": "d9a5d61d17b56a796c22b2cd9648f08f",
+    "price_hash": "856eb68b1d946f05d8cfacec50390c44"
+  },
+  {
+    "device_type": "phone",
+    "brand": "Xiaomi",
+    "model_name": "Xiaomi Redmi 14C",
+    "status": "available",
+    "release_date": "2024, August 30",
+    "release_date_iso": "2024-08-30",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-14c.jpg",
+    "performance": {
+      "chipset": "Mediatek Helio G81 Ultra (12 nm)",
+      "cpu": "Octa-core (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55)",
+      "gpu": "Mali-G52 MC2",
+      "process_node_nm": 12.0,
+      "chipset_tier": "midrange",
+      "gpu_tier": "midrange"
+    },
+    "memory": {
+      "storage_type": "eMMC 5.1",
+      "expandable": true
+    },
+    "variants": [
+      {
+        "storage_gb": 64,
+        "ram_gb": 4,
+        "price_inr": null,
+        "price_last_checked_at": null,
+        "price_source": null,
+        "price_url": null
+      },
+      {
+        "storage_gb": 128,
+        "ram_gb": 4,
+        "price_inr": null,
+        "price_last_checked_at": null,
+        "price_source": null,
+        "price_url": null
+      },
+      {
+        "storage_gb": 128,
+        "ram_gb": 6,
+        "price_inr": null,
+        "price_last_checked_at": null,
+        "price_source": null,
+        "price_url": null
+      },
+      {
+        "storage_gb": 128,
+        "ram_gb": 8,
+        "price_inr": null,
+        "price_last_checked_at": null,
+        "price_source": null,
+        "price_url": null
+      },
+      {
+        "storage_gb": 256,
+        "ram_gb": 4,
+        "price_inr": null,
+        "price_last_checked_at": null,
+        "price_source": null,
+        "price_url": null
+      },
+      {
+        "storage_gb": 256,
+        "ram_gb": 8,
+        "price_inr": null,
+        "price_last_checked_at": null,
+        "price_source": null,
+        "price_url": null
+      }
+    ],
+    "display": {
+      "size_inches": 6.88,
+      "resolution_width": 720,
+      "resolution_height": 1640,
+      "refresh_rate_hz": 120,
+      "panel_type": "IPS LCD",
+      "typical_nits": 450,
+      "hbm_nits": 600,
+      "peak_nits": 600,
+      "supports_hdr10": false,
+      "supports_hdr10_plus": false,
+      "supports_dolby_vision": false,
+      "protection": "Corning Gorilla Glass 3"
+    },
+    "battery": {
+      "capacity_mah": 5160,
+      "active_use_hours": 10.25,
+      "endurance_hours": null,
+      "charging": {
+        "type": null,
+        "advertised": null,
+        "estimated_watt": 18
+      },
+      "wireless_charging_watt": null,
+      "reverse_charging_watt": null,
+      "reverse_charging_supported": false
+    },
+    "physical": {
+      "weight_g": 204,
+      "thickness_mm": 8.2,
+      "materials": {
+        "front": "Gorilla Glass 3",
+        "back": "eco leather",
+        "frame": "plastic"
+      },
+      "sim": {
+        "nano": true,
+        "esim": false,
+        "max_active": 1
+      },
+      "ip_rating": "IP54",
+      "has_3_5mm_jack": true,
+      "loudspeaker_type": "mono",
+      "fingerprint_location": "side-mounted",
+      "is_ultrasonic_fingerprint": false
+    },
+    "connectivity": {
+      "wifi": {
+        "standard": "802.11 a/b/g/n/ac",
+        "generation": "WiFi 5",
+        "features": [
+          "dual-band",
+          "wifi-direct"
+        ]
+      },
+      "bluetooth": {
+        "version": "5.4",
+        "features": [
+          "A2DP",
+          "LE"
+        ]
+      },
+      "has_nfc": true,
+      "has_ir": false,
+      "has_5g": false
+    },
+    "camera": {
+      "rear": {
+        "lenses": [
+          {
+            "type": "wide",
+            "mp": 50,
+            "sensor_size": "1/2.96",
+            "aperture": "f/1.8",
+            "focal_length_mm": 28,
+            "pixel_size_um": null
+          },
+          {
+            "type": "wide",
+            "mp": 50,
+            "sensor_size": "1/2.76",
+            "aperture": "f/1.8",
+            "focal_length_mm": 28,
+            "pixel_size_um": 0.64
+          }
+        ],
+        "max_video_resolution": "1080P",
+        "max_fps_4k": null,
+        "has_hdr_video": true
+      },
+      "selfie": {
+        "mp": 13,
+        "aperture": "f/2.0",
+        "focal_length_mm": null,
+        "lens_type": "wide",
+        "has_pdaf": false,
+        "has_3d_sensor": false,
+        "max_video_resolution": "1080P",
+        "max_fps_4k": null,
+        "has_hdr_video": true
+      },
+      "ois": false,
+      "pdaf": true
+    },
+    "software": {
+      "launch_android_version": "Android 14",
+      "major_android_updates_years": 5,
+      "reliable_upto": "2028, August 30"
+    },
+    "filter": {
+      "release_year": 2024,
+      "release_month": 8,
+      "release_ts": 1724976000,
+      "price_min_inr": null,
+      "price_max_inr": null,
+      "price_available_variant_count": 0,
+      "has_price_data": false,
+      "ram_options_gb": [
+        4,
+        6,
+        8
+      ],
+      "storage_options_gb": [
+        64,
+        128,
+        256
+      ],
+      "sim": {
+        "has_esim": false,
+        "has_dual_sim": false,
+        "sim_count_max": 1
+      },
+      "display_ppi": 260.3,
+      "is_ltpo": false,
+      "is_foldable": false,
+      "water_resistance": {
+        "level": 54,
+        "derived": true
+      },
+      "water_resistance_level": 54
+    },
+    "source": {
+      "spec_url": "https://www.gsmarena.com/xiaomi_redmi_14c-13291.php",
+      "price_url": "https://www.gsmarena.com/xiaomi_redmi_14c-price-13291.php"
+    },
+    "scores": {
+      "gaming": 55,
+      "camera": 28,
+      "display": 21,
+      "battery": 18,
+      "scoring_version": 5
+    },
+    "tags": {
+      "can_game": false,
+      "good_camera": false,
+      "good_display": false,
+      "good_battery": false
+    },
+    "parse_quality": {
+      "missing_fields": [
+        "camera.rear.max_fps_4k"
+      ],
+      "missing_fields_count": 1
+    },
+    "schema_version": 2,
+    "scraped_at": "2026-03-11T09:00:27.343305+00:00",
+    "spec_last_verified_at": "2026-03-11T09:00:27.343305+00:00",
+    "spec_hash": "855cf8ed07b42c5afb00df10cb823648",
+    "price_hash": "7f2c708d35a8b54b96bab7d7dfe8e09d"
+  },
+  {
+    "device_type": "phone",
+    "brand": "Samsung",
+    "model_name": "Samsung Galaxy S25 FE",
+    "status": "available",
+    "release_date": "2025, September 04",
+    "release_date_iso": "2025-09-04",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s25-fe.jpg",
+    "performance": {
+      "chipset": "Exynos 2400 (4 nm)",
+      "cpu": "10-core (1x3.2GHz Cortex-X4 & 2x2.9GHz Cortex-A720 & 3x2.6GHz Cortex-A720 & 4x1.95GHz Cortex-A520)",
+      "gpu": "Xclipse 940",
+      "process_node_nm": 4.0,
+      "benchmarks": {
+        "antutu": 1521140,
+        "geekbench": 6948,
+        "gfxbench": null
+      },
+      "chipset_tier": "flagship",
+      "gpu_tier": "flagship"
+    },
+    "memory": {
+      "storage_type": "UFS 4.0",
+      "expandable": false
+    },
+    "variants": [
+      {
+        "storage_gb": 128,
+        "ram_gb": 8,
+        "price_inr": 51074,
+        "price_last_checked_at": "2026-03-11T09:01:09.510327+00:00",
+        "price_source": "Amazon",
+        "price_url": "https://www.amazon.in/dp/B0FNMQW9HW"
+      },
+      {
+        "storage_gb": 256,
+        "ram_gb": 8,
+        "price_inr": null,
+        "price_last_checked_at": null,
+        "price_source": null,
+        "price_url": null
+      },
+      {
+        "storage_gb": 512,
+        "ram_gb": 8,
+        "price_inr": 66450,
+        "price_last_checked_at": "2026-03-11T09:01:09.510327+00:00",
+        "price_source": "Amazon",
+        "price_url": "https://www.amazon.in/dp/B0FNMQW9HW"
+      }
+    ],
+    "display": {
+      "size_inches": 6.7,
+      "resolution_width": 1080,
+      "resolution_height": 2340,
+      "refresh_rate_hz": 120,
+      "panel_type": "Dynamic LTPO AMOLED 2X",
+      "typical_nits": null,
+      "hbm_nits": null,
+      "peak_nits": 1900,
+      "supports_hdr10": true,
+      "supports_hdr10_plus": true,
+      "supports_dolby_vision": false,
+      "protection": "Corning Gorilla Glass Victus+"
+    },
+    "battery": {
+      "capacity_mah": 4900,
+      "active_use_hours": 11.95,
+      "endurance_hours": null,
+      "charging": {
+        "type": "QC2",
+        "advertised": "65% in 30 min",
+        "estimated_watt": 45
+      },
+      "wireless_charging_watt": 15,
+      "reverse_charging_watt": null,
+      "reverse_charging_supported": true
+    },
+    "physical": {
+      "weight_g": 190,
+      "thickness_mm": 7.4,
+      "materials": {
+        "front": "Gorilla Glass Victus+",
+        "back": "Gorilla Glass Victus+",
+        "frame": "aluminum"
+      },
+      "sim": {
+        "nano": true,
+        "esim": true,
+        "max_active": 2
+      },
+      "ip_rating": "IP68",
+      "has_3_5mm_jack": false,
+      "loudspeaker_type": "stereo",
+      "fingerprint_location": "under display",
+      "is_ultrasonic_fingerprint": false
+    },
+    "connectivity": {
+      "wifi": {
+        "standard": "802.11 a/b/g/n/ac/6e",
+        "generation": "WiFi 6E",
+        "features": [
+          "tri-band",
+          "wifi-direct"
+        ]
+      },
+      "bluetooth": {
+        "version": "5.4",
+        "features": [
+          "A2DP",
+          "LE"
+        ]
+      },
+      "has_nfc": true,
+      "has_ir": false,
+      "has_5g": true
+    },
+    "camera": {
+      "rear": {
+        "lenses": [
+          {
+            "type": "wide",
+            "mp": 50,
+            "sensor_size": "1/1.57",
+            "aperture": "f/1.8",
+            "focal_length_mm": 24,
+            "pixel_size_um": 1.0
+          },
+          {
+            "type": "telephoto",
+            "mp": 8,
+            "sensor_size": "1/4.4",
+            "aperture": "f/2.4",
+            "focal_length_mm": 75,
+            "pixel_size_um": 1.0
+          },
+          {
+            "type": "ultrawide",
+            "mp": 12,
+            "sensor_size": "1/3.0",
+            "aperture": "f/2.2",
+            "focal_length_mm": 13,
+            "pixel_size_um": 1.12
+          }
+        ],
+        "max_video_resolution": "8K",
+        "max_fps_4k": 120,
+        "has_hdr_video": true
+      },
+      "selfie": {
+        "mp": 12,
+        "aperture": "f/2.2",
+        "focal_length_mm": 26,
+        "lens_type": "wide",
+        "has_pdaf": false,
+        "has_3d_sensor": false,
+        "max_video_resolution": "4K",
+        "max_fps_4k": 60,
+        "has_hdr_video": true
+      },
+      "ois": true,
+      "pdaf": true
+    },
+    "software": {
+      "launch_android_version": "Android 16",
+      "major_android_updates_years": 7,
+      "reliable_upto": "2031, September 04"
+    },
+    "filter": {
+      "release_year": 2025,
+      "release_month": 9,
+      "release_ts": 1756944000,
+      "price_min_inr": 51074,
+      "price_max_inr": 66450,
+      "price_available_variant_count": 2,
+      "has_price_data": true,
+      "ram_options_gb": [
+        8
+      ],
+      "storage_options_gb": [
+        128,
+        256,
+        512
+      ],
+      "sim": {
+        "has_esim": true,
+        "has_dual_sim": true,
+        "sim_count_max": 2
+      },
+      "display_ppi": 384.7,
+      "is_ltpo": true,
+      "is_foldable": false,
+      "water_resistance": {
+        "level": 68,
+        "derived": true
+      },
+      "water_resistance_level": 68
+    },
+    "source": {
+      "spec_url": "https://www.gsmarena.com/samsung_galaxy_s25_fe_5g-14042.php",
+      "price_url": "https://www.gsmarena.com/samsung_galaxy_s25_fe_5g-price-14042.php"
+    },
+    "scores": {
+      "gaming": 94,
+      "camera": 80,
+      "display": 77,
+      "battery": 47,
+      "scoring_version": 5
+    },
+    "tags": {
+      "can_game": true,
+      "good_camera": true,
+      "good_display": true,
+      "good_battery": true
+    },
+    "parse_quality": {
+      "missing_fields": [],
+      "missing_fields_count": 0
+    },
+    "schema_version": 2,
+    "scraped_at": "2026-03-11T09:01:09.510327+00:00",
+    "spec_last_verified_at": "2026-03-11T09:01:09.510327+00:00",
+    "spec_hash": "5eb1cb61fb29fcaf7259b6c9fa38b52d",
+    "price_hash": "e45a198234c963b261b9efe7c1aa7d40"
+  },
+  {
+    "device_type": "phone",
+    "brand": "Apple",
+    "model_name": "Apple iPhone Air",
+    "status": "available",
+    "release_date": "2025, September 19",
+    "release_date_iso": "2025-09-19",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-air.jpg",
+    "performance": {
+      "chipset": "Apple A19 Pro (3 nm)",
+      "cpu": "Hexa-core (2x4.26 GHz + 4xX.X GHz)",
+      "gpu": "Apple GPU (5-core graphics)",
+      "process_node_nm": 3.0,
+      "chipset_tier": "ultimate",
+      "gpu_tier": "ultimate"
+    },
+    "memory": {
+      "storage_type": "NVMe",
+      "expandable": false
+    },
+    "variants": [
+      {
+        "storage_gb": 256,
+        "ram_gb": 12,
+        "price_inr": null,
+        "price_last_checked_at": null,
+        "price_source": null,
+        "price_url": null
+      },
+      {
+        "storage_gb": 512,
+        "ram_gb": 12,
+        "price_inr": null,
+        "price_last_checked_at": null,
+        "price_source": null,
+        "price_url": null
+      },
+      {
+        "storage_gb": 1024,
+        "ram_gb": 12,
+        "price_inr": null,
+        "price_last_checked_at": null,
+        "price_source": null,
+        "price_url": null
+      }
+    ],
+    "display": {
+      "size_inches": 6.5,
+      "resolution_width": 1260,
+      "resolution_height": 2736,
+      "refresh_rate_hz": 120,
+      "panel_type": "LTPO Super Retina XDR OLED",
+      "typical_nits": 1000,
+      "hbm_nits": 1600,
+      "peak_nits": 3000,
+      "supports_hdr10": true,
+      "supports_hdr10_plus": false,
+      "supports_dolby_vision": true,
+      "protection": "Ceramic Shield 2"
+    },
+    "battery": {
+      "capacity_mah": 3149,
+      "active_use_hours": 12.73,
+      "endurance_hours": null,
+      "charging": {
+        "type": "PD2.0",
+        "advertised": "50% in 30 min; 50% in 30 min",
+        "estimated_watt": 80
+      },
+      "wireless_charging_watt": null,
+      "reverse_charging_watt": null,
+      "reverse_charging_supported": false
+    },
+    "physical": {
+      "weight_g": 165,
+      "thickness_mm": 5.6,
+      "materials": {
+        "front": "Ceramic Shield 2",
+        "back": "Ceramic Shield",
+        "frame": "titanium grade 5"
+      },
+      "sim": {
+        "nano": false,
+        "esim": true,
+        "max_active": 2
+      },
+      "ip_rating": "IP68",
+      "has_3_5mm_jack": false,
+      "loudspeaker_type": "mono",
+      "fingerprint_location": null,
+      "is_ultrasonic_fingerprint": false
+    },
+    "connectivity": {
+      "wifi": {
+        "standard": "802.11 a/b/g/n/ac/6e/7",
+        "generation": "WiFi 7",
+        "features": [
+          "tri-band",
+          "hotspot"
+        ]
+      },
+      "bluetooth": {
+        "version": "6.0",
+        "features": [
+          "A2DP",
+          "LE"
+        ]
+      },
+      "has_nfc": true,
+      "has_ir": false,
+      "has_5g": true
+    },
+    "camera": {
+      "rear": {
+        "lenses": [
+          {
+            "type": "wide",
+            "mp": 48,
+            "sensor_size": "1/1.56",
+            "aperture": "f/1.6",
+            "focal_length_mm": 26,
+            "pixel_size_um": 1.0
+          }
+        ],
+        "max_video_resolution": "4K",
+        "max_fps_4k": 60,
+        "has_hdr_video": true
+      },
+      "selfie": {
+        "mp": 18,
+        "aperture": "f/1.9",
+        "focal_length_mm": 20,
+        "lens_type": "ultrawide",
+        "has_pdaf": true,
+        "has_3d_sensor": true,
+        "max_video_resolution": "4K",
+        "max_fps_4k": 60,
+        "has_hdr_video": true
+      },
+      "ois": true,
+      "pdaf": true
+    },
+    "software": {
+      "launch_android_version": null,
+      "major_android_updates_years": 5,
+      "reliable_upto": "2029, September 19"
+    },
+    "filter": {
+      "release_year": 2025,
+      "release_month": 9,
+      "release_ts": 1758240000,
+      "price_min_inr": null,
+      "price_max_inr": null,
+      "price_available_variant_count": 0,
+      "has_price_data": false,
+      "ram_options_gb": [
+        12
+      ],
+      "storage_options_gb": [
+        256,
+        512,
+        1024
+      ],
+      "sim": {
+        "has_esim": true,
+        "has_dual_sim": true,
+        "sim_count_max": 2
+      },
+      "display_ppi": 463.4,
+      "is_ltpo": true,
+      "is_foldable": false,
+      "water_resistance": {
+        "level": 68,
+        "derived": true
+      },
+      "water_resistance_level": 68
+    },
+    "source": {
+      "spec_url": "https://www.gsmarena.com/apple_iphone_17_air-13502.php",
+      "price_url": "https://www.gsmarena.com/apple_iphone_17_air-price-13502.php"
+    },
+    "scores": {
+      "gaming": 100,
+      "camera": 48,
+      "display": 83,
+      "battery": 42,
+      "scoring_version": 5
+    },
+    "tags": {
+      "can_game": true,
+      "good_camera": false,
+      "good_display": true,
+      "good_battery": false
+    },
+    "parse_quality": {
+      "missing_fields": [],
+      "missing_fields_count": 0
+    },
+    "schema_version": 2,
+    "scraped_at": "2026-03-11T09:01:40.166109+00:00",
+    "spec_last_verified_at": "2026-03-11T09:01:40.166109+00:00",
+    "spec_hash": "0554531944775318cf934e2ff1d32177",
+    "price_hash": "50db6fdd5e6c629aa79f8c9315c3f7f3"
+  },
+  {
+    "device_type": "tablet",
+    "brand": "Apple",
+    "model_name": "Apple iPad Pro 11 (2024)",
+    "status": "available",
+    "release_date": "2024, May 15",
+    "release_date_iso": "2024-05-15",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-ipad-pro-11-2024.jpg",
+    "performance": {
+      "chipset": "Apple M4",
+      "cpu": "9-core 4.4 GHz (3 performance cores, 6 efficiency cores) - 256/512GB models 10-core 4.4 GHz (4 performance cores, 6 efficiency cores) - 1/2TB models",
+      "gpu": "Apple GPU (10-core graphics)",
+      "process_node_nm": null,
+      "benchmarks": {
+        "antutu": 2566792,
+        "geekbench": 13160,
+        "gfxbench": null
+      },
+      "chipset_tier": "ultimate",
+      "gpu_tier": "ultimate"
+    },
+    "memory": {
+      "storage_type": "NVMe",
+      "expandable": false
+    },
+    "variants": [
+      {
+        "storage_gb": 256,
+        "ram_gb": 8,
+        "price_inr": null,
+        "price_last_checked_at": null,
+        "price_source": null,
+        "price_url": null
+      },
+      {
+        "storage_gb": 512,
+        "ram_gb": 8,
+        "price_inr": null,
+        "price_last_checked_at": null,
+        "price_source": null,
+        "price_url": null
+      },
+      {
+        "storage_gb": 1024,
+        "ram_gb": 16,
+        "price_inr": null,
+        "price_last_checked_at": null,
+        "price_source": null,
+        "price_url": null
+      },
+      {
+        "storage_gb": 2048,
+        "ram_gb": 16,
+        "price_inr": null,
+        "price_last_checked_at": null,
+        "price_source": null,
+        "price_url": null
+      }
+    ],
+    "display": {
+      "size_inches": 11.0,
+      "resolution_width": 1668,
+      "resolution_height": 2420,
+      "refresh_rate_hz": 120,
+      "panel_type": "Ultra Retina Tandem OLED",
+      "typical_nits": null,
+      "hbm_nits": 1000,
+      "peak_nits": 1600,
+      "supports_hdr10": true,
+      "supports_hdr10_plus": false,
+      "supports_dolby_vision": true,
+      "protection": "Scratch-resistant glass, oleophobic coating"
+    },
+    "battery": {
+      "capacity_mah": 8160,
+      "active_use_hours": 12.62,
+      "endurance_hours": null,
+      "charging": {
+        "type": null,
+        "advertised": null,
+        "estimated_watt": null
+      },
+      "wireless_charging_watt": null,
+      "reverse_charging_watt": null,
+      "reverse_charging_supported": false
+    },
+    "physical": {
+      "weight_g": 444,
+      "thickness_mm": 5.3,
+      "materials": {
+        "front": "Glass",
+        "back": "aluminum",
+        "frame": "aluminum"
+      },
+      "sim": {
+        "nano": false,
+        "esim": true,
+        "max_active": 1
+      },
+      "ip_rating": null,
+      "has_3_5mm_jack": false,
+      "loudspeaker_type": "stereo",
+      "fingerprint_location": null,
+      "is_ultrasonic_fingerprint": false
+    },
+    "connectivity": {
+      "wifi": {
+        "standard": "802.11 a/b/g/n/ac/6e",
+        "generation": "WiFi 6E",
+        "features": [
+          "dual-band",
+          "hotspot"
+        ]
+      },
+      "bluetooth": {
+        "version": "5.3",
+        "features": [
+          "A2DP",
+          "LE"
+        ]
+      },
+      "has_nfc": false,
+      "has_ir": false,
+      "has_5g": true
+    },
+    "camera": {
+      "rear": {
+        "lenses": [
+          {
+            "type": "wide",
+            "mp": 12,
+            "sensor_size": null,
+            "aperture": "f/1.8",
+            "focal_length_mm": null,
+            "pixel_size_um": null
+          }
+        ],
+        "max_video_resolution": "4K",
+        "max_fps_4k": 60,
+        "has_hdr_video": true
+      },
+      "selfie": {
+        "mp": 12,
+        "aperture": "f/2.4",
+        "focal_length_mm": null,
+        "lens_type": "ultrawide",
+        "has_pdaf": false,
+        "has_3d_sensor": false,
+        "max_video_resolution": "1080P",
+        "max_fps_4k": null,
+        "has_hdr_video": true
+      },
+      "ois": false,
+      "pdaf": true
+    },
+    "software": {
+      "launch_android_version": null,
+      "major_android_updates_years": 5,
+      "reliable_upto": "2028, May 15"
+    },
+    "filter": {
+      "release_year": 2024,
+      "release_month": 5,
+      "release_ts": 1715731200,
+      "price_min_inr": null,
+      "price_max_inr": null,
+      "price_available_variant_count": 0,
+      "has_price_data": false,
+      "ram_options_gb": [
+        8,
+        16
+      ],
+      "storage_options_gb": [
+        256,
+        512,
+        1024,
+        2048
+      ],
+      "sim": {
+        "has_esim": true,
+        "has_dual_sim": false,
+        "sim_count_max": 1
+      },
+      "display_ppi": 267.2,
+      "is_ltpo": false,
+      "is_foldable": false,
+      "water_resistance": {
+        "level": null,
+        "derived": true
+      },
+      "water_resistance_level": null
+    },
+    "source": {
+      "spec_url": "https://www.gsmarena.com/apple_ipad_pro_11_(2024)-12986.php",
+      "price_url": "https://www.gsmarena.com/apple_ipad_pro_11_(2024)-price-12986.php"
+    },
+    "scores": {
+      "gaming": 95,
+      "camera": 20,
+      "display": 65,
+      "battery": 22,
+      "scoring_version": 5
+    },
+    "tags": {
+      "can_game": true,
+      "good_camera": false,
+      "good_display": false,
+      "good_battery": false
+    },
+    "parse_quality": {
+      "missing_fields": [
+        "physical.ip_rating"
+      ],
+      "missing_fields_count": 1
+    },
+    "schema_version": 2,
+    "scraped_at": "2026-03-11T09:03:57.557812+00:00",
+    "spec_last_verified_at": "2026-03-11T09:03:57.557812+00:00",
+    "spec_hash": "c021517f424c3d20988e3b534690fe0b",
+    "price_hash": "b06407dc8f749008acf66e764905eea6"
+  },
+  {
+    "device_type": "phone",
+    "brand": "Apple",
+    "model_name": "Apple iPhone 15 Pro Max",
+    "status": "available",
+    "release_date": "2023, September 22",
+    "release_date_iso": "2023-09-22",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-15-pro-max.jpg",
+    "performance": {
+      "chipset": "Apple A17 Pro (3 nm)",
+      "cpu": "Hexa-core (2x3.78 GHz + 4x2.11 GHz)",
+      "gpu": "Apple GPU (6-core graphics)",
+      "process_node_nm": 3.0,
+      "benchmarks": {
+        "antutu": 1487203,
+        "geekbench": 7237,
+        "gfxbench": null
+      },
+      "chipset_tier": "flagship",
+      "gpu_tier": "ultimate"
+    },
+    "memory": {
+      "storage_type": "NVMe",
+      "expandable": false
+    },
+    "variants": [
+      {
+        "storage_gb": 256,
+        "ram_gb": 8,
+        "price_inr": null,
+        "price_last_checked_at": null,
+        "price_source": null,
+        "price_url": null
+      },
+      {
+        "storage_gb": 512,
+        "ram_gb": 8,
+        "price_inr": null,
+        "price_last_checked_at": null,
+        "price_source": null,
+        "price_url": null
+      },
+      {
+        "storage_gb": 1024,
+        "ram_gb": 8,
+        "price_inr": null,
+        "price_last_checked_at": null,
+        "price_source": null,
+        "price_url": null
+      }
+    ],
+    "display": {
+      "size_inches": 6.7,
+      "resolution_width": 1290,
+      "resolution_height": 2796,
+      "refresh_rate_hz": 120,
+      "panel_type": "LTPO Super Retina XDR OLED",
+      "typical_nits": 1000,
+      "hbm_nits": 2000,
+      "peak_nits": 2000,
+      "supports_hdr10": true,
+      "supports_hdr10_plus": false,
+      "supports_dolby_vision": true,
+      "protection": "Ceramic Shield glass"
+    },
+    "battery": {
+      "capacity_mah": 4441,
+      "active_use_hours": 16.02,
+      "endurance_hours": 118,
+      "charging": {
+        "type": "PD2.0",
+        "advertised": "50% in 30 min",
+        "estimated_watt": 80
+      },
+      "wireless_charging_watt": 15,
+      "reverse_charging_watt": null,
+      "reverse_charging_supported": false
+    },
+    "physical": {
+      "weight_g": 221,
+      "thickness_mm": 8.3,
+      "materials": {
+        "front": "Glass",
+        "back": "glass",
+        "frame": "titanium grade 5"
+      },
+      "sim": {
+        "nano": true,
+        "esim": true,
+        "max_active": 2
+      },
+      "ip_rating": "IP68",
+      "has_3_5mm_jack": false,
+      "loudspeaker_type": "stereo",
+      "fingerprint_location": null,
+      "is_ultrasonic_fingerprint": false
+    },
+    "connectivity": {
+      "wifi": {
+        "standard": "802.11 a/b/g/n/ac/6e",
+        "generation": "WiFi 6E",
+        "features": [
+          "tri-band",
+          "hotspot"
+        ]
+      },
+      "bluetooth": {
+        "version": "5.3",
+        "features": [
+          "A2DP",
+          "LE"
+        ]
+      },
+      "has_nfc": true,
+      "has_ir": false,
+      "has_5g": true
+    },
+    "camera": {
+      "rear": {
+        "lenses": [
+          {
+            "type": "wide",
+            "mp": 48,
+            "sensor_size": "1/1.28",
+            "aperture": "f/1.8",
+            "focal_length_mm": 24,
+            "pixel_size_um": 1.22
+          },
+          {
+            "type": "periscope_telephoto",
+            "mp": 12,
+            "sensor_size": "1/3.06",
+            "aperture": "f/2.8",
+            "focal_length_mm": 120,
+            "pixel_size_um": 1.12
+          },
+          {
+            "type": "ultrawide",
+            "mp": 12,
+            "sensor_size": "1/2.55",
+            "aperture": "f/2.2",
+            "focal_length_mm": 13,
+            "pixel_size_um": 1.4
+          }
+        ],
+        "max_video_resolution": "4K",
+        "max_fps_4k": 60,
+        "has_hdr_video": true
+      },
+      "selfie": {
+        "mp": 12,
+        "aperture": "f/1.9",
+        "focal_length_mm": 23,
+        "lens_type": "wide",
+        "has_pdaf": true,
+        "has_3d_sensor": true,
+        "max_video_resolution": "4K",
+        "max_fps_4k": 60,
+        "has_hdr_video": true
+      },
+      "ois": true,
+      "pdaf": true
+    },
+    "software": {
+      "launch_android_version": null,
+      "major_android_updates_years": 5,
+      "reliable_upto": "2027, September 22"
+    },
+    "filter": {
+      "release_year": 2023,
+      "release_month": 9,
+      "release_ts": 1695340800,
+      "price_min_inr": null,
+      "price_max_inr": null,
+      "price_available_variant_count": 0,
+      "has_price_data": false,
+      "ram_options_gb": [
+        8
+      ],
+      "storage_options_gb": [
+        256,
+        512,
+        1024
+      ],
+      "sim": {
+        "has_esim": true,
+        "has_dual_sim": true,
+        "sim_count_max": 2
+      },
+      "display_ppi": 459.6,
+      "is_ltpo": true,
+      "is_foldable": false,
+      "water_resistance": {
+        "level": 68,
+        "derived": true
+      },
+      "water_resistance_level": 68
+    },
+    "source": {
+      "spec_url": "https://www.gsmarena.com/apple_iphone_15_pro_max-12548.php",
+      "price_url": "https://www.gsmarena.com/apple_iphone_15_pro_max-price-12548.php"
+    },
+    "scores": {
+      "gaming": 100,
+      "camera": 98,
+      "display": 78,
+      "battery": 60,
+      "scoring_version": 5
+    },
+    "tags": {
+      "can_game": true,
+      "good_camera": true,
+      "good_display": true,
+      "good_battery": true
+    },
+    "parse_quality": {
+      "missing_fields": [],
+      "missing_fields_count": 0
+    },
+    "schema_version": 2,
+    "scraped_at": "2026-03-11T09:04:35.729345+00:00",
+    "spec_last_verified_at": "2026-03-11T09:04:35.729345+00:00",
+    "spec_hash": "fb8680ea0b1ee7b8eec9cbc010303f2c",
+    "price_hash": "8ec4d177610060503641cad16546dfbc"
+  },
+  {
+    "device_type": "phone",
+    "brand": "Samsung",
+    "model_name": "Samsung Galaxy Z Fold5",
+    "status": "available",
+    "release_date": "2023, August 11",
+    "release_date_iso": "2023-08-11",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-z-fold5-5g.jpg",
+    "performance": {
+      "chipset": "Qualcomm SM8550-AC Snapdragon 8 Gen 2 (4 nm)",
+      "cpu": "Octa-core (1x3.36 GHz Cortex-X3 & 2x2.8 GHz Cortex-A715 & 2x2.8 GHz Cortex-A710 & 3x2.0 GHz Cortex-A510)",
+      "gpu": "Adreno 740",
+      "process_node_nm": 4.0,
+      "benchmarks": {
+        "antutu": 1250358,
+        "geekbench": 4824,
+        "gfxbench": 65
+      },
+      "chipset_tier": "flagship",
+      "gpu_tier": "flagship"
+    },
+    "memory": {
+      "storage_type": "UFS 4.0",
+      "expandable": false
+    },
+    "variants": [
+      {
+        "storage_gb": 256,
+        "ram_gb": 12,
+        "price_inr": 108990,
+        "price_last_checked_at": "2026-03-11T09:05:17.659485+00:00",
+        "price_source": "Amazon",
+        "price_url": "https://www.amazon.in/dp/B0CB68N49V"
+      },
+      {
+        "storage_gb": 512,
+        "ram_gb": 12,
+        "price_inr": null,
+        "price_last_checked_at": null,
+        "price_source": null,
+        "price_url": null
+      },
+      {
+        "storage_gb": 1024,
+        "ram_gb": 12,
+        "price_inr": null,
+        "price_last_checked_at": null,
+        "price_source": null,
+        "price_url": null
+      }
+    ],
+    "display": {
+      "size_inches": 7.6,
+      "resolution_width": 1812,
+      "resolution_height": 2176,
+      "refresh_rate_hz": 120,
+      "panel_type": "Foldable Dynamic AMOLED 2X",
+      "typical_nits": null,
+      "hbm_nits": null,
+      "peak_nits": 1000,
+      "supports_hdr10": true,
+      "supports_hdr10_plus": true,
+      "supports_dolby_vision": false,
+      "protection": null
+    },
+    "battery": {
+      "capacity_mah": 4400,
+      "active_use_hours": 12.02,
+      "endurance_hours": 95,
+      "charging": {
+        "type": null,
+        "advertised": "50% in 30 min",
+        "estimated_watt": 25
+      },
+      "wireless_charging_watt": 15,
+      "reverse_charging_watt": 4.5,
+      "reverse_charging_supported": true
+    },
+    "physical": {
+      "weight_g": 253,
+      "thickness_mm": 6.1,
+      "materials": {
+        "front": "Gorilla Glass Victus 2",
+        "back": "Gorilla Glass Victus 2",
+        "frame": "aluminum"
+      },
+      "sim": {
+        "nano": true,
+        "esim": true,
+        "max_active": 2
+      },
+      "ip_rating": "IPX8",
+      "has_3_5mm_jack": false,
+      "loudspeaker_type": "stereo",
+      "fingerprint_location": "side-mounted",
+      "is_ultrasonic_fingerprint": false
+    },
+    "connectivity": {
+      "wifi": {
+        "standard": "802.11 a/b/g/n/ac/6e",
+        "generation": "WiFi 6E",
+        "features": [
+          "tri-band",
+          "wifi-direct"
+        ]
+      },
+      "bluetooth": {
+        "version": "5.3",
+        "features": [
+          "A2DP",
+          "LE",
+          "aptX",
+          "aptX HD"
+        ]
+      },
+      "has_nfc": true,
+      "has_ir": false,
+      "has_5g": true
+    },
+    "camera": {
+      "rear": {
+        "lenses": [
+          {
+            "type": "wide",
+            "mp": 50,
+            "sensor_size": "1/1.56",
+            "aperture": "f/1.8",
+            "focal_length_mm": 23,
+            "pixel_size_um": 1.0
+          },
+          {
+            "type": "telephoto",
+            "mp": 10,
+            "sensor_size": "1/3.94",
+            "aperture": "f/2.4",
+            "focal_length_mm": 66,
+            "pixel_size_um": 1.0
+          },
+          {
+            "type": "ultrawide",
+            "mp": 12,
+            "sensor_size": "1/3.06",
+            "aperture": "f/2.2",
+            "focal_length_mm": 12,
+            "pixel_size_um": 1.12
+          }
+        ],
+        "max_video_resolution": "8K",
+        "max_fps_4k": 60,
+        "has_hdr_video": true
+      },
+      "selfie": {
+        "mp": 4,
+        "aperture": "f/1.8",
+        "focal_length_mm": 26,
+        "lens_type": "wide",
+        "has_pdaf": false,
+        "has_3d_sensor": false,
+        "max_video_resolution": "4K",
+        "max_fps_4k": 60,
+        "has_hdr_video": true
+      },
+      "ois": true,
+      "pdaf": true
+    },
+    "software": {
+      "launch_android_version": "Android 13",
+      "major_android_updates_years": 4,
+      "reliable_upto": "2026, August 11"
+    },
+    "filter": {
+      "release_year": 2023,
+      "release_month": 8,
+      "release_ts": 1691712000,
+      "price_min_inr": 108990,
+      "price_max_inr": 108990,
+      "price_available_variant_count": 1,
+      "has_price_data": true,
+      "ram_options_gb": [
+        12
+      ],
+      "storage_options_gb": [
+        256,
+        512,
+        1024
+      ],
+      "sim": {
+        "has_esim": true,
+        "has_dual_sim": true,
+        "sim_count_max": 2
+      },
+      "display_ppi": 372.6,
+      "is_ltpo": true,
+      "is_foldable": true,
+      "water_resistance": {
+        "level": 8,
+        "derived": true
+      },
+      "water_resistance_level": 8
+    },
+    "source": {
+      "spec_url": "https://www.gsmarena.com/samsung_galaxy_z_fold5-12418.php",
+      "price_url": "https://www.gsmarena.com/samsung_galaxy_z_fold5-price-12418.php"
+    },
+    "scores": {
+      "gaming": 98,
+      "camera": 80,
+      "display": 67,
+      "battery": 43,
+      "scoring_version": 5
+    },
+    "tags": {
+      "can_game": true,
+      "good_camera": true,
+      "good_display": false,
+      "good_battery": false
+    },
+    "parse_quality": {
+      "missing_fields": [],
+      "missing_fields_count": 0
+    },
+    "schema_version": 2,
+    "scraped_at": "2026-03-11T09:05:17.659485+00:00",
+    "spec_last_verified_at": "2026-03-11T09:05:17.659485+00:00",
+    "spec_hash": "efb3fd840c5c655879b3cc650f1e5a5f",
+    "price_hash": "a658856fe8a91580ba52c106ced7b56f"
+  }
+]
